@@ -1,120 +1,65 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+The Project Gutenberg eBook of Three addresses on the relations
+subsisting between the white and colored people of the United States, by
+Frederick Douglas
 
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-  <head>  <link rel="icon" href="images/cover.jpg" type="image/x-cover" />
-<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
-<title>
-  The Project Gutenberg eBook of Three
-addresses on the Relations Subsisting between
-the White and Colored People of the United States, by Frederick Douglass.
-</title>
-<style type="text/css">
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
 
-a:link {background-color:#ffffff;color:blue;text-decoration:none;}
+Title: Three addresses on the relations subsisting between the white and
+       colored people of the United States
 
-  link {background-color:#ffffff;color:blue;text-decoration:none;}
+Author: Frederick Douglas
 
-a:visited {background-color:#ffffff;color:purple;text-decoration:none;}
+Release Date: April 25, 2022 [eBook #67919]
 
-a:hover {background-color:#ffffff;color:#FF0000;text-decoration:underline;}
+Language: English
 
-.big {font-size: 130%;}
+Produced by: Steve Mattern, Chuck Greif and the Online Distributed
+             Proofreading Team at https://www.pgdp.net (This file was
+             produced from images generously made available by The
+             Internet Archive)
 
-.blockquot {margin:1em 5em;}
+*** START OF THE PROJECT GUTENBERG EBOOK THREE ADDRESSES ON THE
+RELATIONS SUBSISTING BETWEEN THE WHITE AND COLORED PEOPLE OF THE UNITED
+STATES ***
 
-body{margin-left:4%;margin-right:6%;background:#ffffff;color:black;font-family:"Times New Roman", serif;font-size:medium;}
 
-.c {text-align:center;text-indent:0%;}
 
- h1 {margin-top:5%;text-align:center;clear:both;
-font-weight:normal;}
 
- h2 {margin-top:4%;margin-bottom:2%;text-align:center;clear:both;
- font-size:110%;font-weight:bold;
-font-family:sans-serif, serif;}
 
- h3  {margin-top:4%;margin-bottom:2%;text-align:center;clear:both;
- font-size:80%;font-weight:normal;
-font-family: serif;}
+                            THREE ADDRESSES
 
- hr.full {width: 60%;margin:2% auto 2% auto;border-top:1px solid black;
-padding:.1em;border-bottom:1px solid black;border-left:none;border-right:none;}
+                                ON THE
 
- img {border:none;}
+                Relations Subsisting between the White
+                       and Colored People of the
+                            United States,
 
- p {margin-top:.2em;text-align:justify;margin-bottom:.2em;text-indent:4%;}
+                                  by
 
-.pagenum  {font-style:normal;position:absolute;
-left:95%;font-size:55%;text-align:right;color:gray;
-background-color:#ffffff;font-variant:normal;font-style:normal;font-weight:normal;text-decoration:none;text-indent:0em;}
+                          FREDERICK DOUGLASS.
 
-small {font-size: 50%;}
+                    [Illustration: decorative bar]
 
-.smcap  {font-variant:small-caps;font-size:100%;}
+                              WASHINGTON:
+                GIBSON BROS., PRINTERS AND BOOKBINDERS.
+                                 1886.
 
-div.poetry {text-align:center;}
-div.poem {font-size:80%;margin:auto auto;text-indent:0%;
-display: inline-block; text-align: left;font-weight:bold;}
-.poem .stanza     {margin-top: 1em;margin-bottom:1em;}
-.poem span.i0     {display: block; margin-left: 0em; padding-left: 3em; text-indent: -3em;}
-.poem span.i1     {display: block; margin-left: .45em; padding-left: 3em; text-indent: -3em;}
-.poem span.i2     {display: block; margin-left: 1em; padding-left: 3em; text-indent: -3em;}
-.poem span.i3     {display: block; margin-left: 1.5em; padding-left: 3em; text-indent: -3em;}
-</style>
-  </head>
-<body>
-<div>*** START OF THE PROJECT GUTENBERG EBOOK 67919 ***</div>
-<hr class="full" />
 
-<div class="c">
-<img src="images/cover.jpg" height="500" alt="" />
-</div>
 
-<p style="border:3px solid gray;
-font-variant:small-caps;font-size:100%;
-text-align:center;padding:.25em;
-margin:2em auto;max-width:18em;">
-<a href="#In_Louisville_KY_1883">In Louisville, KY., 1883.</a><br />
-<a href="#IN_WASHINGTON_D_C_1885">In Washington, D. C., 1885.</a><br />
-<a href="#IN_WASHINGTON_D_C_1886">In Washington, D. C., 1886.</a><br />
-</p>
 
-<p><span class="pagenum"><a name="page_1" id="page_1">{1}</a></span>&#160; </p>
+In Louisville, KY., 1883.
 
-<h1>THREE ADDRESSES<br />
-<br />
-<small><small>ON THE</small></small><br /><br />
+     The following was delivered by FREDERICK DOUGLASS as an address to
+     the people of the United States at a Convention of Colored Men held
+     in Louisville, Ky., September 24, 1883:
 
-Relations Subsisting between the White<br /><br />
-and Colored People of the<br /><br />
-United States,</h1>
-
-<p class="c">
-<small>BY</small><br />
-<br /><br />
-<span class="big">FREDERICK DOUGLASS.</span>
-<br /><br />
-<img src="images/barr.png"
-width="150"
-alt="" />
-<br /><br />
-WASHINGTON:<br /><span class="smcap">
-Gibson Bros., Printers and Bookbinders.</span><br />
-1886.
-</p>
-
-<p><span class="pagenum"><a name="page_2" id="page_2">{2}</a></span>&#160; </p>
-
-<p><span class="pagenum"><a name="page_3" id="page_3">{3}</a></span>&#160; </p>
-
-<h2><a name="In_Louisville_KY_1883" id="In_Louisville_KY_1883"></a>In Louisville, KY., 1883.</h2>
-
-<div class="blockquot"><p>The following was delivered by <span class="smcap">Frederick Douglass</span> as an address to
-the people of the United States at a Convention of Colored Men held
-in Louisville, Ky., September 24, 1883:</p></div>
-
-<p><span class="smcap">Fellow-Citizens:</span> Charged with the responsibility and duty of doing what
+FELLOW-CITIZENS: Charged with the responsibility and duty of doing what
 we may to advance the interest and promote the general welfare of a
 people lately enslaved, and who, though now free, still suffer many of
 the disadvantages and evils derived from their former condition, not the
@@ -136,16 +81,16 @@ United States, representing the thoughts, feelings and purposes of
 colored men generally, would, as one means of advancing the cause
 committed to them, most respectfully and earnestly ask your attention
 and favorable consideration to the matters contained in the present
-paper.</p>
+paper.
 
-<p>At the outset we very cordially congratulate you upon the altered
+At the outset we very cordially congratulate you upon the altered
 condition both of ourselves and our common country. Especially do we
 congratulate you upon the fact that a great reproach, which for two
 centuries rested on the good name of your country, has been blotted out;
 that chattel slavery is no longer the burden of the colored man’s
 complaint, and that we now come to rattle no chains, to clank no
 fetters, to paint no horrors of the old plantation to shock your
-sensi<span class="pagenum"><a name="page_4" id="page_4">{4}</a></span>bilities, to humble your pride, excite your pity, or to kindle
+sensibilities, to humble your pride, excite your pity, or to kindle
 your indignation. We rejoice also that one of the results of this
 stupendous revolution in our national history, the Republic which was
 before divided and weakened between two hostile and irreconcilable
@@ -155,9 +100,9 @@ highest civilization; that this change has started the American Republic
 on a new departure, full of promise, although it has also brought you
 and ourselves face to face with problems novel and difficult, destined
 to impose upon us responsibilities and duties, which, plainly enough,
-will tax our highest mental and moral ability for their happy solution.</p>
+will tax our highest mental and moral ability for their happy solution.
 
-<p>Born on American soil in common with yourselves, deriving our bodies and
+Born on American soil in common with yourselves, deriving our bodies and
 our minds from its dust, centuries having passed away since our
 ancestors were torn from the shores of Africa, we, like yourselves, hold
 ourselves to be in every sense Americans, and that we may, therefore,
@@ -167,9 +112,9 @@ tears, enriched it with our blood, performed its roughest labor in time
 of peace, defended it against enemies in time of war, and at all times
 been loyal and true to its best interests, we deem it no arrogance or
 presumption to manifest now a common concern with you for its welfare,
-prosperity, honor and glory.</p>
+prosperity, honor and glory.
 
-<p>If the claim thus set up by us be admitted, as we think it ought to be,
+If the claim thus set up by us be admitted, as we think it ought to be,
 it may be asked, what propriety or necessity can there be for the
 Convention, of which we are members? and why are we now addressing you
 in some sense as suppliants asking for justice and fair play? These
@@ -183,7 +128,7 @@ impatience, we have been asked: “What more can the colored people of
 this country want than they now have, and what more is possible to
 them?” It is said they were once slaves, they are now free; they were
 once subjects, they are now sovereigns; they were once outside of all
-American institutions, they are<span class="pagenum"><a name="page_5" id="page_5">{5}</a></span> now inside of all and are a recognized
+American institutions, they are now inside of all and are a recognized
 part of the whole American people. Why, then, do they hold Colored
 National Conventions and thus insist upon keeping up the color line
 between themselves and their white fellow-countrymen? We do not deny the
@@ -207,7 +152,7 @@ charity. Educated as they are and have been for centuries, taught to
 look upon colored people as a lower order of humanity than themselves,
 and as having few rights, if any, above domestic animals, regarding them
 also through the medium of their beneficent religious creeds and just
-laws&mdash;as if law and practice were identical&mdash;some allowance can, and
+laws--as if law and practice were identical--some allowance can, and
 perhaps ought to, be made when they misapprehend our real situation and
 deny our wants and assume a virtue they do not possess. But no such
 excuse or apology can be properly framed for men who are in any way
@@ -219,9 +164,9 @@ there are such men among us is a disagreeable and humiliating
 confession. But in this respect, as in others, we are not without the
 consolation of company; we are neither alone nor singular in the
 production of just such characters. All oppressed people have been thus
-afflicted.<span class="pagenum"><a name="page_6" id="page_6">{6}</a></span></p>
+afflicted.
 
-<p>It is one of the most conspicuous evils of caste and oppression, that
+It is one of the most conspicuous evils of caste and oppression, that
 they inevitably tend to make cowards and serviles of their victims, men
 ever ready to bend the knee to pride and power that thrift may follow
 fawning, willing to betray the cause of the many to serve the ends of
@@ -234,15 +179,15 @@ to kiss the hand that smites them and strike down the arm reached out to
 save them. Considering our long subjection to servitude and caste, and
 the many temptations to which we are exposed to betray our race into the
 hands of their enemies, the wonder is not that we have so many traitors
-among us as that we have so few.</p>
+among us as that we have so few.
 
-<p>The most of our people, to their honor be it said, are remarkably sound
+The most of our people, to their honor be it said, are remarkably sound
 and true to each other. To those who think we have no cause to hold this
 convention, we freely admit that, so far as the organic law of the land
 is concerned, we have indeed nothing to complain of, to ask or desire.
-There may be need of legislation, but the organic law is sound.</p>
+There may be need of legislation, but the organic law is sound.
 
-<p>Happily for us and for the honor of the Republic, the United States
+Happily for us and for the honor of the Republic, the United States
 Constitution is just, liberal, and friendly. The amendments to that
 instrument, adopted in the trying times of reconstruction of the
 Southern States, are a credit to the courage and statesmanship of the
@@ -260,7 +205,7 @@ single individuals and isolated organizations; because, coming together
 from all parts of the country, the members of a National convention have
 the means of a more comprehensive knowledge of the general situation,
 and may, therefore, fairly be presumed to conceive more clearly and
-ex<span class="pagenum"><a name="page_7" id="page_7">{7}</a></span>press more fully and wisely the policy it may be necessary for them
+express more fully and wisely the policy it may be necessary for them
 to pursue in the premises. Because conventions of the people are in
 themselves harmless, and when made the means of setting forth
 grievances, whether real or fancied, they are the safety-valves of the
@@ -282,7 +227,7 @@ very idea of a convention. It has been treated as if it were some
 ghastly, secret conclave, sitting in darkness to devise strife and
 mischief. The fact is, the only serious feature in the argument against
 us is the one which respects color. We are asked not only why hold a
-convention, but with emphasis, why hold a <i>colored</i> convention? Why keep
+convention, but with emphasis, why hold a _colored_ convention? Why keep
 up this odious distinction between citizens of a common country, and
 thus give countenance to the color line? It is argued that, if colored
 men hold conventions, based upon color, white men may hold white
@@ -296,12 +241,12 @@ white men holding conventions in their own interests, when they are once
 in our condition and we in theirs, when they are the oppressed and we
 the oppressors. In point of fact, however, white men are already in
 convention against us in various ways and at many important points. The
-practical construction of Ameri<span class="pagenum"><a name="page_8" id="page_8">{8}</a></span>can life is a convention against us.
+practical construction of American life is a convention against us.
 Human law may know no distinction among men in respect of rights, but
-human practice may. Examples are painfully abundant.</p>
+human practice may. Examples are painfully abundant.
 
-<p>The border men hate the Indians; the Californian, the Chinaman; the
-Mohammedan, the Christian, and <i>vice versa</i>. In spite of a common nature
+The border men hate the Indians; the Californian, the Chinaman; the
+Mohammedan, the Christian, and _vice versa_. In spite of a common nature
 and the equality framed into law, this hate works injustice, of which
 each in their own name and under their own color may justly complain.
 The apology for observing the color line in the composition of our State
@@ -309,9 +254,9 @@ and National conventions is in its necessity and in the fact that we
 must do this or nothing, for if we move our color is recognized and must
 be. It has its foundation in the exceptional relation we sustain to the
 white people of the country. A simple statement of our position
-vindicates at once our convention and our cause.</p>
+vindicates at once our convention and our cause.
 
-<p>It is our lot to live among a people whose laws, traditions, and
+It is our lot to live among a people whose laws, traditions, and
 prejudices have been against us for centuries, and from these they are
 not yet free. To assume that they are free from these evils simply
 because they have changed their laws is to assume what is utterly
@@ -335,19 +280,19 @@ case he may provoke contempt and derision, but in the other he is an
 affront to pride, and provokes malice. Let him do what he will, there is
 at present, therefore, no escape for him. The color line meets him
 everywhere, and in a measure shuts him out from all respectable and
-profitable<span class="pagenum"><a name="page_9" id="page_9">{9}</a></span> trades and callings. In spite of all your religion and laws
-he is a rejected man.</p>
+profitable trades and callings. In spite of all your religion and laws
+he is a rejected man.
 
-<p>He is rejected by trade unions, of every trade, and refused work while
+He is rejected by trade unions, of every trade, and refused work while
 he lives, and burial when he dies, and yet he is asked to forget his
 color, and forget that which everybody else remembers. If he offers
 himself to a builder as a mechanic, to a client as a lawyer, to a
 patient as a physician, to a college as a professor, to a firm as a
 clerk, to a Government Department as an agent, or an officer, he is
 sternly met on the color line, and his claim to consideration in some
-way is disputed on the ground of color.</p>
+way is disputed on the ground of color.
 
-<p>Not even our churches, whose members profess to follow the despised
+Not even our churches, whose members profess to follow the despised
 Nazarene, whose home, when on earth, was among the lowly and despised,
 have yet conquered this feeling of color madness, and what is true of
 our churches is also true of our courts of law. Neither is free from
@@ -356,10 +301,10 @@ as impartial, no respecter of persons, and the other the Goddess of
 Justice as blindfolded, with sword by her side and scales in her hand
 held evenly between high and low, rich and poor, white and black, but
 both are the images of American imagination, rather than American
-practices.</p>
+practices.
 
-<p>Taking advantage of the general disposition in this country to impute
-crime to color, white men <i>color</i> their faces to commit crime and wash
+Taking advantage of the general disposition in this country to impute
+crime to color, white men _color_ their faces to commit crime and wash
 off the hated color to escape punishment. In many places where the
 commission of crime is alleged against one of our color, the ordinary
 processes of the law are set aside as too slow for the impetuous justice
@@ -376,7 +321,7 @@ terms of profanity to prepare for death, would be more than human if he
 did not, in his terror-stricken appearance, more confirm suspicion of
 guilt than the contrary. Worse still, in the presence of such hell-black
 outrages, the pulpit is usually dumb, and the press in the neighborhood
-is<span class="pagenum"><a name="page_10" id="page_10">{10}</a></span> silent or openly takes side with the mob. There are occasional cases
+is silent or openly takes side with the mob. There are occasional cases
 in which white men are lynched, but one sparrow does not make a summer.
 Every one knows that what is called Lynch law is peculiarly the law for
 colored people and for nobody else. If there were no other grievance
@@ -396,7 +341,7 @@ the least reward. While we recognize the color line as a hurtful force,
 a mountain barrier to our progress, wounding our bleeding feet with its
 flinty rocks at every step, we do not despair. We are a hopeful people.
 This convention is a proof of our faith in you, in reason, in truth and
-justice&mdash;our belief that prejudice, with all its malign accompaniments,
+justice--our belief that prejudice, with all its malign accompaniments,
 may yet be removed by peaceful means; that, assisted by time and events
 and the growing enlightenment of both races, the color line will
 ultimately become harmless. When this shall come it will then only be
@@ -411,16 +356,16 @@ avarice which have been marshaled to sustain it; how the language and
 literature of the country have been pervaded with it; how the church,
 the press, the play-house, and other influences of the country have been
 arrayed in its support, the progress toward its extinction must be
-considered vast and wonderful.<span class="pagenum"><a name="page_11" id="page_11">{11}</a></span></p>
+considered vast and wonderful.
 
-<p>If liberty, with us, is yet but a name, our citizenship is but a sham,
+If liberty, with us, is yet but a name, our citizenship is but a sham,
 and our suffrage thus far only a cruel mockery, we may yet congratulate
 ourselves upon the fact that the laws and institutions of the country
 are sound, just and liberal. There is hope for a people when their laws
 are righteous whether for the moment they conform to their requirements
 or not. But until this nation shall make its practice accord with its
 Constitution and its righteous laws, it will not do to reproach the
-colored people of this country with keeping up the color line&mdash;for that
+colored people of this country with keeping up the color line--for that
 people would prove themselves scarcely worthy of even theoretical
 freedom, to say nothing of practical freedom, if they settled down in
 silent, servile and cowardly submission to their wrongs, from fear of
@@ -441,16 +386,16 @@ from coward lips and misapprehended the character of that party. If the
 Republican party cannot stand a demand for justice and fair play, it
 ought to go down. We were men before that party was born, and our
 manhood is more sacred than any party can be. Parties were made for men,
-not men for parties.</p>
+not men for parties.
 
-<p>If the six millions of colored people of this country, armed with the
+If the six millions of colored people of this country, armed with the
 Constitution of the United States, with a million votes of their own to
 lean upon, and millions of white men at their back, whose hearts are
 responsive to the claims of humanity, have not sufficient spirit and
 wisdom to organize and combine to defend themselves from outrage,
 discrimination, and oppression, it will be idle for them to expect that
 the Republican party or any other political party will organize and
-combine for them or care what becomes of<span class="pagenum"><a name="page_12" id="page_12">{12}</a></span> them. Men may combine to
+combine for them or care what becomes of them. Men may combine to
 prevent cruelty to animals, for they are dumb and cannot speak for
 themselves; but we are men and must speak for ourselves, or we shall not
 be spoken for at all. We have conventions in America for Ireland, but we
@@ -461,14 +406,15 @@ us Independence. In conclusion upon this color objection, we have to say
 that we meet here in open daylight. There is nothing sinister about us.
 The eyes of the nation are upon us. Ten thousand newspapers may tell if
 they choose of whatever is said and done here. They may commend our
-wisdom or condemn our folly, precisely as we shall be wise or foolish.</p>
+wisdom or condemn our folly, precisely as we shall be wise or foolish.
 
-<p>We put ourselves before them as honest men, and ask their judgment upon
-our work.</p>
+We put ourselves before them as honest men, and ask their judgment upon
+our work.
 
-<h3>THE LABOR QUESTION.</h3>
 
-<p>Not the least important among the subjects to which we invite your
+THE LABOR QUESTION.
+
+Not the least important among the subjects to which we invite your
 earnest attention is the condition of the labor class at the South.
 Their cause is one with the labor classes all over the world. The labor
 unions of the country should not throw away this colored element of
@@ -477,9 +423,9 @@ of labor and capital, and to-day no subject wears an aspect more
 threatening to civilization than the respective claims of capital and
 labor, landlords and tenants. In what we have to say for our laboring
 class we expect to have and ought to have the sympathy and support of
-laboring men everywhere and of every color.</p>
+laboring men everywhere and of every color.
 
-<p>It is a great mistake for any class of laborers to isolate itself and
+It is a great mistake for any class of laborers to isolate itself and
 thus weaken the bond of brotherhood between those on whom the burden and
 hardships of labor fall. The fortunate ones of the earth, who are
 abundant in land and money and know nothing of the anxious care and
@@ -488,13 +434,13 @@ appeal for justice at this point, but the laboring classes cannot afford
 to be indifferent. What labor everywhere wants, what it ought to have,
 and will some day demand and receive, is an honest day’s pay for an
 honest day’s work. As the laborer becomes more intelligent he will
-develop what capital he already possesses&mdash;that is the power to organize
+develop what capital he already possesses--that is the power to organize
 and combine for its own protection. Experience demonstrates that there
-may be a<span class="pagenum"><a name="page_13" id="page_13">{13}</a></span> wages of slavery only a little less galling and crushing in
+may be a wages of slavery only a little less galling and crushing in
 its effects than chattel slavery, and that this slavery of wages must go
-down with the other.</p>
+down with the other.
 
-<p>There is nothing more common now than the remark that the physical
+There is nothing more common now than the remark that the physical
 condition of the freedmen of the South is immeasurably worse than in the
 time of slavery; that in respect to food, clothing and shelter they are
 wretched, miserable and destitute; that they are worse masters to
@@ -505,9 +451,9 @@ before the Senate Committee of Labor and Education, says the “negroes
 are so indolent that they fail to take advantage of the opportunities
 offered them; that they will only devote so much of their time to work
 as will enable them to procure the necessities of life; that there is
-danger of a war of races,” etc., etc.</p>
+danger of a war of races,” etc., etc.
 
-<p>His testimony proclaims him the grandson of the man whose name he bears.
+His testimony proclaims him the grandson of the man whose name he bears.
 The blame which belongs to his own class he shifts from them to the
 shoulders of labor. It becomes us to test the truth of that assertion by
 the light of reason, and by appeals to indisputable facts. Of course the
@@ -527,22 +473,22 @@ without the colored laborer to-day the South would be a howling
 wilderness, given up to bats, owls, wolves, and bears. He was the source
 of its wealth before the war, and has been the source of its prosperity
 since the war. He almost alone is visible in her fields, with implements
-of toil in his hands, and laboriously using them to-day.</p>
+of toil in his hands, and laboriously using them to-day.
 
-<p>Let us look candidly at the matter. While we see and hear<span class="pagenum"><a name="page_14" id="page_14">{14}</a></span> that the
+Let us look candidly at the matter. While we see and hear that the
 South is more prosperous than it ever was before and rapidly recovering
 from the waste of war, while we read that it raises more cotton, sugar,
 rice, tobacco, corn, and other valuable products than it ever produced
 before, how happens it, we sternly ask, that the houses of its laborers
 are miserable huts, that their clothes are rags, and their food the
 coarsest and scantiest? How happens it that the land-owner is becoming
-richer and the laborer poorer?</p>
+richer and the laborer poorer?
 
-<p>The implication is irresistible&mdash;that where the landlord is prosperous
+The implication is irresistible--that where the landlord is prosperous
 the laborer ought to share his prosperity, and whenever and wherever we
-find this is not the case there is manifestly wrong somewhere.</p>
+find this is not the case there is manifestly wrong somewhere.
 
-<p>This sharp contrast of wealth and poverty, as every thoughtful man
+This sharp contrast of wealth and poverty, as every thoughtful man
 knows, can exist only in one way, and from one cause, and that is by one
 getting more than its proper share of the reward of industry, and the
 other side getting less, and that in some way labor has been defrauded
@@ -550,60 +496,60 @@ or otherwise denied of its due proportion, and we think the facts, as
 well as this philosophy, will support this view in the present case, and
 do so conclusively. We utterly deny that the colored people of the South
 are too lazy to work, or that they are indifferent to their physical
-wants; as already said, they are the workers of that section.</p>
+wants; as already said, they are the workers of that section.
 
-<p>The trouble is not that the colored people of the South are indolent,
+The trouble is not that the colored people of the South are indolent,
 but that no matter how hard or how persistent may be their industry,
 they get barely enough for their labor to support life at the very low
 point at which we find them. We therefore throw off the burden of
 disgrace and reproach from the laborer where Mr. Calhoun and others of
 his class would place it, and put it on the land-owner where it belongs.
 It is the old case over again. The black man does the work and the white
-man gets the money.</p>
+man gets the money.
 
-<p>It may be said after all the colored people have themselves to blame for
+It may be said after all the colored people have themselves to blame for
 this state of things, because they have not intelligently taken the
 matter into their own hands and provided a remedy for the evil they
-suffer.</p>
+suffer.
 
-<p>Some blame may attach at this point. But those who reproach us thus
+Some blame may attach at this point. But those who reproach us thus
 should remember that it is hard for labor, however fortunately and
 favorably surrounded, to cope with the tremendous power of capital in
 any contest for higher wages or improved condition. A strike for higher
 wages is seldom successful, and is often injurious to the strikers; the
-losses sustained are seldom compensated by the concessions<span class="pagenum"><a name="page_15" id="page_15">{15}</a></span> gained. A
-case in point is the recent strike of the telegraph operators&mdash;a more
+losses sustained are seldom compensated by the concessions gained. A
+case in point is the recent strike of the telegraph operators--a more
 intelligent class can nowhere be found. It was a contest of brains
 against money, and the want of money compelled intelligence to surrender
-to wealth.</p>
+to wealth.
 
-<p>An empty sack is not easily made to stand upright. The man who has it in
+An empty sack is not easily made to stand upright. The man who has it in
 his power to say to a man, you must work the land for me for such wages
 as I choose to give, has a power of slavery over him as real, if not as
 complete, as he who compels toil under the lash. All that a man hath
-will he give for his life.</p>
+will he give for his life.
 
-<p>In contemplating the little progress made by the colored people in the
+In contemplating the little progress made by the colored people in the
 acquisition of property in the South, and their present wretched
 condition, the circumstances of their emancipation should not be
 forgotten. Measurement in their case should not begin from the height
-yet to be attained by them, but from the depths whence they have come.</p>
+yet to be attained by them, but from the depths whence they have come.
 
-<p>It should be remembered by our severe judges that freedom came to us not
+It should be remembered by our severe judges that freedom came to us not
 from the sober dictates of wisdom, or from any normal condition of
 things, not as a matter of choice on the part of the land-owners of the
 South, nor from moral considerations on the part of the North. It was
 born of battle and of blood. It came across fields of smoke and fire
 strewn with wounded, bleeding, and dying men. Not from the Heaven of
-Peace amid the morning stars, but from the hell of war&mdash;out of the
+Peace amid the morning stars, but from the hell of war--out of the
 tempest and whirlwind of warlike passions, mingled with deadly hate and
 a spirit of revenge; it came, not so much as a boon to us as a blast to
 the enemy. Those against whom the measure was directed were the
 land-owners, and they were not angels, but men, and, being men, it was
 to be expected they would resent the blow. They did resent it, and a
-part of that resentment unhappily fell upon us.</p>
+part of that resentment unhappily fell upon us.
 
-<p>At first the land-owners drove us out of our old quarters, and told us
+At first the land-owners drove us out of our old quarters, and told us
 they did not want us in their fields; that they meant to import German,
 Irish, and Chinese laborers. But as the passions of the war gradually
 subsided we were taken back to our old places; but, plainly enough, this
@@ -612,44 +558,45 @@ somehow or other entitled to our labor without the payment of wages, it
 was not strange that they should make the hardest bargains for our
 labor, and get it for as little as possible. For them the contest was
 easy; their tremendous power and our weakness easily gave them the
-victory.</p>
+victory.
 
-<p>Against the voice of Stevens, Sumner, and Wade, and other<span class="pagenum"><a name="page_16" id="page_16">{16}</a></span> far-seeing
+Against the voice of Stevens, Sumner, and Wade, and other far-seeing
 statesmen, the Government by whom we were emancipated left us completely
 in the power of our former owners. They turned us loose to the open sky
-and left us not a foot of ground from which to get a crust of bread.</p>
+and left us not a foot of ground from which to get a crust of bread.
 
-<p>It did not do as well by us as Russia did by her serfs, or Pharaoh did
-by the Hebrews. With freedom Russia gave land and Egypt loaned jewels.</p>
+It did not do as well by us as Russia did by her serfs, or Pharaoh did
+by the Hebrews. With freedom Russia gave land and Egypt loaned jewels.
 
-<p>It may have been best to leave us thus to make terms with those whose
+It may have been best to leave us thus to make terms with those whose
 wrath it had kindled against us. It does not seem right that we should
 have been so left, but it fully explains our present poverty and
-wretchedness.</p>
+wretchedness.
 
-<p>The marvel is not that we are poor in such circumstances, but rather
+The marvel is not that we are poor in such circumstances, but rather
 that we were not exterminated. In view of the circumstances, our
 extermination was confidently predicted. The facts that we still live
 and have increased in higher ratio than the native white people of the
-South are proofs of our vitality, and, in some degree, of our industry.</p>
+South are proofs of our vitality, and, in some degree, of our industry.
 
-<p>Nor is it to be wondered at that the standard of morals is not higher
+Nor is it to be wondered at that the standard of morals is not higher
 among us, that respect for the rights of property is not stronger. The
 power of life and death held over labor which says you shall work for me
-on my own terms or starve, is a source of crime, as well as poverty.</p>
+on my own terms or starve, is a source of crime, as well as poverty.
 
-<p>Weeds do not more naturally spring out of a manure pile than crime out
+Weeds do not more naturally spring out of a manure pile than crime out
 of enforced destitution. Out of the misery of Ireland comes murder,
 assassination, fire, and sword. The Irish are by nature no worse than
 other people, and no better. If oppression makes a wise man mad it may
 do the same, and worse, to a people who are not reputed wise. The woe
 pronounced upon those who keep back wages of the laborer by fraud is
 self-acting and self-executing and certain as death. The world is full
-of warnings.</p>
+of warnings.
 
-<h3>THE ORDER SYSTEM.</h3>
 
-<p>No more crafty and effective devise for defrauding the southern laborers
+THE ORDER SYSTEM.
+
+No more crafty and effective devise for defrauding the southern laborers
 could be adopted than the one that substitutes orders upon shopkeepers
 for currency in payment of wages. It has the merit of a show of honesty,
 while it puts the laborer completely at the mercy of the land-owner and
@@ -657,48 +604,49 @@ the shopkeeper. He is between the upper and the nether millstones, and
 is hence ground to dust. It gives the shopkeeper a customer who can
 trade with no other storekeeper, and thus leaves the latter no motive
 for fair dealing except his own moral sense, which is never too strong.
-While the<span class="pagenum"><a name="page_17" id="page_17">{17}</a></span> laborer holding the orders is tempted by their worthlessness,
+While the laborer holding the orders is tempted by their worthlessness,
 as a circulating medium, to get rid of them at any sacrifice, and hence
-is led into extravagance and consequent destitution.</p>
+is led into extravagance and consequent destitution.
 
-<p>The merchant puts him off with his poorest commodities at highest
+The merchant puts him off with his poorest commodities at highest
 prices, and can say to him take these or nothing. Worse still. By this
 means the laborer is brought into debt, and hence is kept always in the
 power of the land-owner. When this system is not pursued and land is
 rented to the freedman, he is charged more for the use of an acre of
 land for a single year than the land would bring in the market if
 offered for sale. On such a system of fraud and wrong one might well
-invoke a bolt from heaven&mdash;red with uncommon wrath.</p>
+invoke a bolt from heaven--red with uncommon wrath.
 
-<p>It is said if the colored people do not like the conditions upon which
+It is said if the colored people do not like the conditions upon which
 their labor is demanded and secured, let them leave and go elsewhere. A
 more heartless suggestion never emanated from an oppressor. Having for
 years paid them in shop orders, utterly worthless outside the shop to
 which they are directed, without a dollar in their pockets, brought by
 this crafty process into bondage to the land-owners, who can and would
-arrest them if they should attempt to leave when they are told to go.</p>
+arrest them if they should attempt to leave when they are told to go.
 
-<p>We commend the whole subject to the Senate Committee of Labor and
+We commend the whole subject to the Senate Committee of Labor and
 Education, and urge upon that committee the duty to call before it not
 only the land-owners, but the landless laborers of the South, and thus
-get at the whole truth concerning the labor question of that section.</p>
+get at the whole truth concerning the labor question of that section.
 
-<h3>EDUCATION.</h3>
 
-<p>On the subject of equal education and educational facilities, mentioned
+EDUCATION.
+
+On the subject of equal education and educational facilities, mentioned
 in the call for this convention, we expect little resistance from any
 quarter. It is everywhere an accepted truth, that in a country governed
 by the people, like ours, education of the youth of all classes is vital
-to its welfare, prosperity, and to its existence.</p>
+to its welfare, prosperity, and to its existence.
 
-<p>In the light of this unquestioned proposition, the patriot cannot but
+In the light of this unquestioned proposition, the patriot cannot but
 view with a shudder the widespread and truly alarming illiteracy as
-revealed by the census of 1880.</p>
+revealed by the census of 1880.
 
-<p>The question as to how this evil is to be remedied is an important one.
+The question as to how this evil is to be remedied is an important one.
 Certain it is that it will not do to trust to the philanthropy of
 wealthy individuals or benevolent societies to remove it. The States in
-which this illiteracy prevails either<span class="pagenum"><a name="page_18" id="page_18">{18}</a></span> can not or will not provide
+which this illiteracy prevails either can not or will not provide
 adequate systems of education for their own youth. But, however this may
 be, the fact remains that the whole country is directly interested in
 the education of every child that lives within its borders. The
@@ -706,23 +654,23 @@ ignorance of any part of the American people so deeply concerns all the
 rest that there can be no doubt of the right to pass laws compelling the
 attendance of every child at school. Believing that such is now required
 and ought to be enacted, we hereby put ourselves on record in favor of
-stringent laws to this end.</p>
+stringent laws to this end.
 
-<p>In the presence of this appalling picture, presented by the last census,
+In the presence of this appalling picture, presented by the last census,
 we hold it to be the imperative duty of Congress to take hold of this
 important subject, and, without waiting for the States to adopt liberal
 school systems within their respective jurisdictions, to enter
-vigorously upon the work of universal education.</p>
+vigorously upon the work of universal education.
 
-<p>The National Government, with its immense resources, can carry the
+The National Government, with its immense resources, can carry the
 benefits of a sound common-school education to the door of every poor
 man from Maine to Texas, and to withhold this boon is to neglect the
 greatest assurance it has of its own perpetuity. As a part of the
 American people we unite most emphatically with others who have already
 spoken on this subject, in urging Congress to lay the foundation of a
-great national system of aid to education at its next session.</p>
+great national system of aid to education at its next session.
 
-<p>In this connection, and as germane to the subject of education under
+In this connection, and as germane to the subject of education under
 national auspices, we would most respectfully and earnestly request
 Congress to authorize the appointment of a commission of three or more
 persons of suitable character and qualifications to ascertain the legal
@@ -731,65 +679,68 @@ treasury, appropriated for the payment of bounties of colored soldiers
 and sailors; and to provide by law that at the expiration of three or
 five years the balance remaining in the treasury be distributed among
 the colored colleges of the country, giving the preference as to amounts
-to the schools that are doing effective work in industrial branches.</p>
+to the schools that are doing effective work in industrial branches.
 
-<h3>FREEDMEN’S BANK.</h3>
 
-<p>The colored people have suffered much on account of the failure of the
+FREEDMEN’S BANK.
+
+The colored people have suffered much on account of the failure of the
 Freedman’s bank. Their loss by this institution was a peculiar hardship,
 coming as it did upon them in the days of their greatest weakness. It is
-certain that the<span class="pagenum"><a name="page_19" id="page_19">{19}</a></span> depositors in this institution were led to believe
+certain that the depositors in this institution were led to believe
 that as Congress had chartered it and established its headquarters at
 the capital the Government in some way was responsible for the safe
-keeping of their money.</p>
+keeping of their money.
 
-<p>Without the dissemination of this belief it would never have had the
+Without the dissemination of this belief it would never have had the
 confidence of the people as it did nor have secured such an immense
 deposit. Nobody authorized to speak for the Government ever corrected
 this deception, but on the contrary, Congress continued to legislate for
-the bank as if all that had been claimed for it was true.</p>
+the bank as if all that had been claimed for it was true.
 
-<p>Under these circumstances, together with much more that might be said in
+Under these circumstances, together with much more that might be said in
 favor of such a measure, we ask Congress to reimburse the unfortunate
 victims of that institution, and thus carry hope and give to many fresh
-encouragement in the battle of life.</p>
+encouragement in the battle of life.
 
-<h3>BOUNTY AND PENSION LAWS.</h3>
 
-<p>We desire, also, to call the attention of Congress and the country to
+BOUNTY AND PENSION LAWS.
+
+We desire, also, to call the attention of Congress and the country to
 the bounty and pension laws and to the filing of original claims. We ask
 for the passage of an act extending the time for filing original claims
-beyond the present limit.</p>
+beyond the present limit.
 
-<p>This we do for the reason that many of the soldiers and sailors that
+This we do for the reason that many of the soldiers and sailors that
 served in the war of the rebellion and their heirs, and especially
 colored claimants living in parts of the country where they have but
 meagre means of information, have been, and still are, ignorant of their
-rights and the methods of enforcing them.</p>
+rights and the methods of enforcing them.
 
-<p>But while we urge these duties on Congress and the country, we must
+But while we urge these duties on Congress and the country, we must
 never forget that any race worth living will live, and whether Congress
 heeds our request in these and other particulars or not, we must
 demonstrate our capacity to live by living. We must acquire property and
 educate the hands and hearts and heads of our children whether we are
 helped or not. Races that fail to do these things die politically and
-socially, and are only fit to die.</p>
+socially, and are only fit to die.
 
-<p>One great source of independence that has been sought by multitudes of
-our white fellow-citizens is still open to us&mdash;we refer to the public
+One great source of independence that has been sought by multitudes of
+our white fellow-citizens is still open to us--we refer to the public
 lands in the great West. The amazing rapidity with which the public
 lands are being taken up warns us that we must lay hold of this
 opportunity soon, or it will be gone forever. The Government gives to
 every actual settler, under certain conditions, 160 acres of land. By
-addressing a letter to the United States Land Office, Washington, D.<span class="pagenum"><a name="page_20" id="page_20">{20}</a></span>
+addressing a letter to the United States Land Office, Washington, D.
 C., any person will receive full information in regard to this subject.
 Thousands of white men have settled on these lands with scarcely any
 money beyond their immediate wants, and in a few years have found
-themselves the lords of a 160-acre farm. Let us do likewise.</p>
+themselves the lords of a 160-acre farm. Let us do likewise.
 
-<h3>CIVIL RIGHTS.</h3>
 
-<p>The right of every American citizen to select his own society and invite
+CIVIL RIGHTS.
+
+The right of every American citizen to select his own society and invite
 whom he will to his own parlor and table should be sacredly respected. A
 man’s house is his castle, and he has a right to admit or refuse
 admission to it as he may please, and defend his house from all
@@ -797,9 +748,9 @@ intruders even with force, if need be. This right belongs to the
 humblest not less than the highest, and the exercise of it by any of our
 citizens toward anybody or class who may presume to intrude, should
 cause no complaint, for each and all may exercise the same right toward
-whom he will.</p>
+whom he will.
 
-<p>When he quits his home and goes upon the public street, enters a public
+When he quits his home and goes upon the public street, enters a public
 car or a public house, he has no exclusive right of occupancy. He is
 only a part of the great public, and while he has the right to walk,
 ride, and be accommodated with food and shelter in a public conveyance
@@ -810,9 +761,9 @@ put upon the ground that the exercise of such rights, it is insisted, is
 social equality. But this ground is unreasonable. It is hard to say what
 social equality is, but it is certain that going into the same street
 car, hotel, or steamboat cabin does not make any man society for another
-any more than flying in the same air makes all birds of one feather.</p>
+any more than flying in the same air makes all birds of one feather.
 
-<p>Two men may be seated at the same table at a hotel; one may be a Webster
+Two men may be seated at the same table at a hotel; one may be a Webster
 in intellect, and the other a Guiteau in feebleness of mind and morals,
 and, of course, socially and intellectually, they are as wide apart as
 are the poles of the moral universe, but their civil rights are the
@@ -820,9 +771,9 @@ same. The distinction between the two sorts of equality is broad and
 plain to the understanding of the most limited, and yet, blinded by
 prejudice, men never cease to confound one with the other, and allow
 themselves to infringe the civil rights of their fellow-citizens as if
-those rights were, in some way, in violation of their social rights.</p>
+those rights were, in some way, in violation of their social rights.
 
-<p>That this denial of rights to us is because of our color, only<span class="pagenum"><a name="page_21" id="page_21">{21}</a></span> as color
+That this denial of rights to us is because of our color, only as color
 is a badge of condition, is manifest in the fact that no matter how
 decently dressed or well-behaved a colored man may be, he is denied
 civil treatment in the ways thus pointed out, unless he comes as a
@@ -841,16 +792,17 @@ United States. From those courts which have solemnly sworn to support
 the Constitution and that yet treat this provision of it with contempt
 we appeal to the people, and call upon our friends to remember our civil
 rights at the ballot-box. On the point of the two equalities we are
-determined to be understood.</p>
+determined to be understood.
 
-<p>We leave social equality where it should be left, with each individual
+We leave social equality where it should be left, with each individual
 man and woman. No law can regulate or control it. It is a matter with
 which governments have nothing whatever to do. Each may choose his own
-friends and associates without interference or dictation of any.</p>
+friends and associates without interference or dictation of any.
 
-<h3>POLITICAL EQUALITY.</h3>
 
-<p>Flagrant as have been the outrages committed upon colored citizens in
+POLITICAL EQUALITY.
+
+Flagrant as have been the outrages committed upon colored citizens in
 respect to their civil rights, more flagrant, shocking, and scandalous
 still have been the outrages committed upon our political rights by
 means of bull-dozing and Kukluxing, Mississippi plans, fraudulent
@@ -860,29 +812,29 @@ representation and their political voice suppressed. The colored
 citizens in those States are virtually disfranchised, the Constitution
 held in utter contempt and its provisions nullified. This has been done
 in the face of the Republican party and successive Republican
-administrations.</p>
+administrations.
 
-<p>It was once said by the great O’Connell that the history of Ireland
-might be traced like a wounded man through a crowd<span class="pagenum"><a name="page_22" id="page_22">{22}</a></span> by the blood, and
+It was once said by the great O’Connell that the history of Ireland
+might be traced like a wounded man through a crowd by the blood, and
 the same may be truly said of the history of the colored voters of the
-South.</p>
+South.
 
-<p>They have marched to the ballot-box in face of gleaming weapons, wounds,
+They have marched to the ballot-box in face of gleaming weapons, wounds,
 and death. They have been abandoned by the Government, and left to the
 laws of nature. So far as they are concerned, there is no Government or
-Constitution of the United States.</p>
+Constitution of the United States.
 
-<p>They are under control of a foul, haggard, and damning conspiracy
+They are under control of a foul, haggard, and damning conspiracy
 against reason, law, and constitution. How you can be indifferent, how
 any leading colored men can allow themselves to be silent in presence of
-this state of things, we cannot see.</p>
+this state of things, we cannot see.
 
-<p>“Should tongues be mute while deeds are wrought which well might shame
+“Should tongues be mute while deeds are wrought which well might shame
 extremest hell?” And yet they are mute, and condemn our assembling here
 to speak out in manly tones against the continuance of this infernal
-reign of terror.</p>
+reign of terror.
 
-<p>This is no question of party. It is a question of law and government. It
+This is no question of party. It is a question of law and government. It
 is a question whether men shall be protected by law, or be left to the
 mercy of cyclones of anarchy and bloodshed. It is whether the Government
 or the mob shall rule this land; whether the promises solemnly made to
@@ -892,69 +844,74 @@ take notice that whatever of political power we have shall be exerted
 for no man of any party who will not, in advance of election, promise to
 use every power given him by the Government, State or National, to make
 the black man’s path to the ballot-box as straight, smooth and safe as
-that of any other American citizen.</p>
+that of any other American citizen.
 
-<h3>POLITICAL AMBITION.</h3>
 
-<p>We are as a people often reproached with ambition for political offices
+POLITICAL AMBITION.
+
+We are as a people often reproached with ambition for political offices
 and honors. We are not ashamed of this alleged ambition. Our destitution
 of such ambition would be our real shame. If the six millions and a half
 of people whom we represent could develop no aspirants to political
 office and honor under this Government, their mental indifference,
 barrenness and stolidity might well enough be taken as proof of their
-unfitness for American citizenship.</p>
+unfitness for American citizenship.
 
-<p>It is no crime to seek or hold office. If it were it would take a larger
-space than that of Noah’s Ark to hold the white criminals.</p>
+It is no crime to seek or hold office. If it were it would take a larger
+space than that of Noah’s Ark to hold the white criminals.
 
-<p>One of the charges against this convention is that it seeks<span class="pagenum"><a name="page_23" id="page_23">{23}</a></span> for the
+One of the charges against this convention is that it seeks for the
 colored people a larger share than they now possess in the offices and
-emoluments of the Government.</p>
+emoluments of the Government.
 
-<p>We are now significantly reminded by even one of our own members that we
+We are now significantly reminded by even one of our own members that we
 are only twenty years out of slavery, and we ought therefore to be
 modest in our aspirations. Such leaders should remember that men will
-not be religious when the devil turns preacher.</p>
+not be religious when the devil turns preacher.
 
-<p>The inveterate and persistent office-seeker and office-holder should be
+The inveterate and persistent office-seeker and office-holder should be
 modest when he preaches that virtue to others which he does not himself
 practice. Wolsey could not tell Cromwell to fling away ambition properly
-only when he had flung away his own.</p>
+only when he had flung away his own.
 
-<p>We are far from affirming that there may not be too much zeal among
+We are far from affirming that there may not be too much zeal among
 colored men in pursuit of political preferment; but the fault is not
 wholly theirs. They have young men among them noble and true, who are
-educated and intelligent&mdash;fit to engage in enterprise of “pith and
-moment"&mdash;who find themselves shut out from nearly all the avenues of
+educated and intelligent--fit to engage in enterprise of “pith and
+moment"--who find themselves shut out from nearly all the avenues of
 wealth and respectability, and hence they turn their attention to
 politics. They do so because they can find nothing else. The best cure
-for the evil is to throw open other avenues and activities to them.</p>
+for the evil is to throw open other avenues and activities to them.
 
-<p>We shall never cease to be a despised and persecuted class while we are
+We shall never cease to be a despised and persecuted class while we are
 known to be excluded by our color from all important positions under the
-Government.</p>
+Government.
 
-<p>While we do not make office the one thing important, nor the one
+While we do not make office the one thing important, nor the one
 condition of our alliance with any party, and hold that the welfare,
 prosperity and happiness of our whole country is the true criterion of
 political action for ourselves and for all men, we can not disguise from
 ourselves the fact that our persistent exclusion from office as a class
 is a great wrong, fraught with injury, and ought to be resented and
-opposed by all reasonable and effective means in our power.</p>
+opposed by all reasonable and effective means in our power.
 
-<p>We hold it to be self-evident that no class or color should be the
+We hold it to be self-evident that no class or color should be the
 exclusive rulers of this country. If there is such a ruling class, there
 must of course be a subject class, and when this condition is once
 established this Government of the people, by the people, and for the
-people, will have perished from the earth.<span class="pagenum"><a name="page_24" id="page_24">{24}</a></span></p>
+people, will have perished from the earth.
 
-<h2><a name="IN_WASHINGTON_D_C_1885" id="IN_WASHINGTON_D_C_1885"></a>IN WASHINGTON, D. C., 1885.</h2>
 
-<div class="blockquot"><p>On being introduced by Hon. <span class="smcap">B. K. Bruce</span>, on the occasion of the
-twenty-third anniversary of the abolition of slavery in the
-District of Columbia, <span class="smcap">Frederick Douglass</span> spoke as follows:</p></div>
 
-<p><span class="smcap">Friends and Fellow-Citizens:</span> Your committee of arrangements were pleased
+
+IN WASHINGTON, D. C., 1885.
+
+     On being introduced by Hon. B. K. BRUCE, on the occasion of the
+     twenty-third anniversary of the abolition of slavery in the
+     District of Columbia, FREDERICK DOUGLASS spoke as follows:
+
+
+FRIENDS AND FELLOW-CITIZENS: Your committee of arrangements were pleased
 to select me as your orator of the day, on an occasion similar to this,
 two years ago. At that time, while appreciating the honor conferred upon
 me, I ventured to express the wish that some one of the many competent
@@ -976,14 +933,14 @@ our condition, and in that of the country generally. Though in its
 immediate and legal operation this act of emancipation was local in its
 range as to territory, and limited in its application as to the number
 of persons liberated by it, morally it looms upon us as a grand,
-comprehensive, and far-reaching measure.</p>
+comprehensive, and far-reaching measure.
 
-<p>To appreciate its importance we must not consider it as a single
+To appreciate its importance we must not consider it as a single
 independent act standing alone, nor as one pertaining to this District
 only, nor to the colored people only. We must regard it as a part of a
 series of splendid public measures, as one of so many steps in the
 national progress looking to one beneficent and glorious result, a large
-contribution to the<span class="pagenum"><a name="page_25" id="page_25">{25}</a></span> honor and welfare of the whole country. It was the
+contribution to the honor and welfare of the whole country. It was the
 auspicious beginning of a great movement in the councils of the nation,
 made necessary by the war, and one which finally culminated in the
 complete and permanent abolition of slavery, not only in the District of
@@ -999,9 +956,9 @@ statesmen for ages; it gave courage and hope to our armies in the field;
 it weakened the rebellion; it raised the whole nation to a higher and
 happier plane of civilization, and placed the American people where they
 never were before, in a position where they could consistently and
-effectively preach liberty to all the nations of the world.</p>
+effectively preach liberty to all the nations of the world.
 
-<p>The 16th of April, the anniversary of this great act of the nation,
+The 16th of April, the anniversary of this great act of the nation,
 strangely and erroneously enough has been considered simply as the
 colored man’s day only. The business of consecrating and preserving its
 memory has been, by common consent, relegated to him exclusively. But,
@@ -1018,30 +975,30 @@ two masters, and the attempt of our Government to do this was a
 stupendous failure. The union between liberty and slavery was a marriage
 without love, a house divided against itself; a couple unequally yoked
 together, held together by external force, not by moral cohesion; it
-brought happiness to neither, and misery to both.</p>
+brought happiness to neither, and misery to both.
 
-<p>Like any other embodiment of social and material interest peculiar to a
-given community, slavery generated its own<span class="pagenum"><a name="page_26" id="page_26">{26}</a></span> sentiments, its own morals,
+Like any other embodiment of social and material interest peculiar to a
+given community, slavery generated its own sentiments, its own morals,
 manners, and religion; and begot a character in all around it in favor
-of its own existence.</p>
+of its own existence.
 
-<p>In nearly everything indigenous and peculiar to society in the two
+In nearly everything indigenous and peculiar to society in the two
 sections, they were as separate and distinct as are any two nations on
 the globe. The longer they were thus linked together in the bonds of
 outward union, the more palpable became their points of difference, and
 the more passionate became their hostility to each other. Liberty became
 more and more the glory of the North, and slavery more and more the idol
 of the South. Not even the bonds of Christian fellowship were strong
-enough to hold together the churches of the two sections.</p>
+enough to hold together the churches of the two sections.
 
-<p>In view of this settled and growing antagonism, only one of three
+In view of this settled and growing antagonism, only one of three
 courses was opened to the nation: The first was to make the country all
 slaves, the second was to make it all free, and the third was to divide
-the Union, and let each section set up a government of its own&mdash;the one
+the Union, and let each section set up a government of its own--the one
 based upon the system of slavery, and the other based upon the
-principles of the Declaration of American Independence.</p>
+principles of the Declaration of American Independence.
 
-<p>Thanks to the wisdom, loyalty, patriotism, courage, and statesmanship
+Thanks to the wisdom, loyalty, patriotism, courage, and statesmanship
 developed by the crisis, the nation rejected equally the idea of making
 the country all slaves, and permitting two separate nations, with
 hostile civilizations, side by side, with a chafing, bloody border
@@ -1050,24 +1007,20 @@ liberty for all the people, and hence we are here this evening. There
 was never any physical reason for the dissolution of the Union. The
 geographical and topographical conditions of the country all served to
 unite rather than to divide the two sections. It was moral not physical
-dynamite that blew the two sections asunder.</p>
+dynamite that blew the two sections asunder.
 
-<p>We are told by the poet that&mdash;</p>
+We are told by the poet that--
 
-<div class="poetry">
-<div class="poem"><div class="stanza">
-<span class="i0">“Lands intersected by a narrow frith, abhor each other;<br /></span>
-<span class="i1">Mountains interposed make enemies of nations,<br /></span>
-<span class="i1">Which else, like kindred drops, had mingled into one.”<br /></span>
-</div></div>
-</div>
+    “Lands intersected by a narrow frith, abhor each other;
+     Mountains interposed make enemies of nations,
+     Which else, like kindred drops, had mingled into one.”
 
-<p>But in this case there were neither friths nor mountains to separate the
+But in this case there were neither friths nor mountains to separate the
 South from the North, or to make our Southern brethren hate the people
 of the North. The moral cause of trouble in the system of slavery being
 now removed, peace and harmony are possible, and, I doubt not, these
 blessings, though long delayed, will finally come. In calling attention
-to the event which makes this day precious we honor our<span class="pagenum"><a name="page_27" id="page_27">{27}</a></span>selves, and
+to the event which makes this day precious we honor ourselves, and
 honor the noble and brave men who brought it about. We render our humble
 tribute of gratitude to-day, not only to those whose valor and whose
 blood on the battlefield brought freedom to the American slave; not only
@@ -1078,18 +1031,18 @@ cause of emancipation, and made these warriors and statesmen possible.
 Neither would our gratitude forget those who supplemented the great act
 of emancipation by carrying the blessings of education to the benighted
 South, thus preparing the liberated freedman for the duties of
-citizenship.</p>
+citizenship.
 
-<p>I need not stop here to call the roll of any of these classes. The
+I need not stop here to call the roll of any of these classes. The
 nation knows the debt it owes them, and will never forget them. We have
 but to mention the honored name of Abraham Lincoln in the Presidential
 chair, of Ulysses S. Grant in the field, at whose bedside a grateful
 nation now stands mute in sympathy and sad expectation; of William Lloyd
-Garrison in the columns of the <i>Liberator</i>, of Wendell Phillips on the
+Garrison in the columns of the _Liberator_, of Wendell Phillips on the
 rostrum, of Charles Sumner in the Senate, to cause a host of noble men
-and women to start up and pass in review before us.</p>
+and women to start up and pass in review before us.
 
-<p>But I drop this brief reference to the history and personnel of the
+But I drop this brief reference to the history and personnel of the
 anti-slavery movement, and will speak of matters nearer our times and
 equally pertinent to this occasion. Those who abolished slavery did
 their work, and did it well. They served their day and generation with
@@ -1099,16 +1052,16 @@ and it will go well with this nation and with us if we in our time, and
 if those who are to come after us in theirs, shall adhere to and uphold
 these same principles with equal zeal, courage, fidelity, and fortitude.
 One generation cannot safely rest on the achievements of another, and
-ought not so to rest.</p>
+ought not so to rest.
 
-<p>Hitherto there has been little variety in the thoughts, resolutions, and
+Hitherto there has been little variety in the thoughts, resolutions, and
 addresses presented for consideration on occasions similar to this. Each
-celebration has been almost a <i>fac-simile</i> of its predecessors. The
+celebration has been almost a _fac-simile_ of its predecessors. The
 speeches have been little more than echoes of those made before, because
 the conditions of their utterances have been so uniform, and all one
 way. To-day, however, conditions are changed, or appear to be changed.
 We do not stand where we stood one year ago. We are confronted by a new
-Administration. The term<span class="pagenum"><a name="page_28" id="page_28">{28}</a></span> of twenty-four years of steady, unbroken,
+Administration. The term of twenty-four years of steady, unbroken,
 successful Republican rule is ended. The great Republican party that
 carried the country safely through the late war against the rebellion,
 emancipated the slave, saved the Union, reconstructed the government of
@@ -1117,46 +1070,42 @@ credit, improved the currency, decreased the national debt, and did more
 for the honor, prosperity, and glory of the American people than was
 ever done before in the same length of time by any party in any country
 under similar circumstances, has been defeated, humiliated, and driven
-from place and power.</p>
+from place and power.
 
-<p>For the first time since the chains fell from the limbs of the slaves of
+For the first time since the chains fell from the limbs of the slaves of
 the District of Columbia; for the first time since slaves were raised
 from chattels to men; for the first time since they were clothed with
 the dignity of American citizenship they find themselves under the rule
 of a political party which steadily opposed their every step from
 bondage to freedom, and this fact may well enough give a peculiar
 coloring to the thoughts and feelings with which this anniversary of
-emancipation is celebrated.</p>
+emancipation is celebrated.
 
-<p>The great question of the hour respects the true significance of this
+The great question of the hour respects the true significance of this
 change in the national front. What does it portend? How will it affect
 our relations to the people and government of this country? How was this
 stupendous change brought about, and, in point of fact, it may be asked
 with some propriety if there has really been any serious change made in
-our condition by this change in the relations of parties?</p>
+our condition by this change in the relations of parties?
 
-<p>To the eye of the colored man the change, or apparent change, in the
+To the eye of the colored man the change, or apparent change, in the
 political situation is very marked, and wears a very sinister aspect. He
 has so long been accustomed to think the Republican party the
 sheet-anchor of his liberty, the star of all his hopes, that he can see
 nought but ill in the ascendancy of the Democratic party. He addresses
-it much as did Hamlet his father’s ghost:</p>
+it much as did Hamlet his father’s ghost:
 
-<div class="poetry">
-<div class="poem"><div class="stanza">
-<span class="i0">“Tell why thy canonized bones, hearsed in death,<br /></span>
-<span class="i1">Have burst their cerements; why the sepulchre.<br /></span>
-<span class="i1">Wherein we saw thee quietly inurn’d,<br /></span>
-<span class="i1">Hath oped his ponderous and marble jaws to cast thee up again.<br /></span>
-<span class="i1">What may this mean, that thou, dead corpse,<br /></span>
-<span class="i1">Again in complete steel, revisit’st thus the glimpses of the moon,<br /></span>
-<span class="i1">Making night hideous, and we, poor fools of nature,<br /></span>
-<span class="i1">So horridly to shake our disposition<br /></span>
-<span class="i1">With thoughts beyond the reaches of our souls?”<br /></span>
-</div></div>
-</div>
+    “Tell why thy canonized bones, hearsed in death,
+     Have burst their cerements; why the sepulchre.
+     Wherein we saw thee quietly inurn’d,
+     Hath oped his ponderous and marble jaws to cast thee up again.
+     What may this mean, that thou, dead corpse,
+     Again in complete steel, revisit’st thus the glimpses of the moon,
+     Making night hideous, and we, poor fools of nature,
+     So horridly to shake our disposition
+     With thoughts beyond the reaches of our souls?”
 
-<p>It is, perhaps, too early to determine the full significance<span class="pagenum"><a name="page_29" id="page_29">{29}</a></span> of the
+It is, perhaps, too early to determine the full significance of the
 return of the Democratic party to power, or to tell just how that return
 to power came about. One thing must be admitted, and that is that the
 power and vitality of the Democratic party have been vastly underrated.
@@ -1165,9 +1114,9 @@ ordinary parties, and yet it lives. At times it has really seemed to be
 dead. Some said it had died by opposing the war for the Union, but it
 was not so. We thought the life had gone out of it when it took our late
 friend, Horace Greely, for its candidate for the Presidency and adopted
-a Republican platform, but it was not so.</p>
+a Republican platform, but it was not so.
 
-<p>It was the same old party in a new dress, and time has shown that it was
+It was the same old party in a new dress, and time has shown that it was
 as full of life and power as ever. The fact is, it was never either
 honestly dead or securely buried. Even when it slept it had one eye
 open, and saw better with that one eye than did the Republican party
@@ -1177,33 +1126,33 @@ inauguration. We thought the Democratic party dead when it was alive,
 and the Republican party alive and strong when it was half dead. Long
 continuance in power had developed rival ambitions, personal
 animosities, factional combinations in the Republican party that were
-fatal to its success and even endangered its life.</p>
+fatal to its success and even endangered its life.
 
-<p>One great lesson taught by Republican defeat is familiar to all. It is
+One great lesson taught by Republican defeat is familiar to all. It is
 the folly of relying upon past good behavior for present success.
 Parties, like men, must act in the living present or fail. It is not
 what they have done or left undone in the past that turns the scale, but
 what they are doing, and mean to do now. The result shows that neither
 the past good conduct of the Republican party nor the past bad conduct
-of the Democratic party has had much to do with the late election.</p>
+of the Democratic party has had much to do with the late election.
 
-<p>Americans have too little memory for good or bad political conduct. The
+Americans have too little memory for good or bad political conduct. The
 people have said in the late election, “We care nothing for your past;
 but what is your present character and work?” And in rendering judgment
-they have said, “We see little ground for preferring one to the other.”</p>
+they have said, “We see little ground for preferring one to the other.”
 
-<p>But, fellow-citizens, it is consoling to think that this change in the
+But, fellow-citizens, it is consoling to think that this change in the
 political front justly implies no real change for the worse in the moral
 convictions of the American people. On the great questions that divided
 the parties during the periods of war and reconstruction there has been
-no change what<span class="pagenum"><a name="page_30" id="page_30">{30}</a></span>ever. Upon all the great measures of justice, liberty,
+no change whatever. Upon all the great measures of justice, liberty,
 and civilization, originated and carried through Congress by the
 Republican party, I believe the heart of the nation to be still safe and
 sound. If the measures then in controversy between the parties were now
 submitted to the American people, I fully believe they would sustain
-them one and all by an overwhelming vote.</p>
+them one and all by an overwhelming vote.
 
-<p>The trouble was that the Republican party in the late campaign forgot
+The trouble was that the Republican party in the late campaign forgot
 for the moment its high mission as the party of great moral ideas, and
 sought victory on grounds far below its ordinary level. It made national
 pelf more important and prominent than national purity. It made the body
@@ -1218,9 +1167,9 @@ would have changed the result; so that nothing for the future can be
 safely predicted upon the election either way. It does not imply that
 the Democratic party is in power to stay, or that the Republican party
 is out of power to stay, or that new parties are to arise and take the
-place of the old.</p>
+place of the old.
 
-<p>While it was painfully evident that the Republican party, during the
+While it was painfully evident that the Republican party, during the
 late canvass, had little or nothing to say against the outrages
 committed upon the newly enfranchised people of the South, it was
 equally plain that the Democratic party had nothing to say in defense of
@@ -1228,30 +1177,30 @@ these outrages. Yet it is not strange, in view of the history of the two
 parties, that much alarm was felt by colored people all over the South
 when they first learned that the great Republican party was defeated and
 that the Democratic party was soon to administer the National
-Government.</p>
+Government.
 
-<p>Ignorant as the colored people of the South have been, and may still be,
+Ignorant as the colored people of the South have been, and may still be,
 about other matters of national importance, they have always been
 intelligent enough as to the character and relations of political
 parties. They have never been mistaken as to the historical difference
 between the party which gave them liberty and the party which sought to
 continue their enslavement. They had known the Democratic party long
-and<span class="pagenum"><a name="page_31" id="page_31">{31}</a></span> well and only as the party of the old master class. They naturally
+and well and only as the party of the old master class. They naturally
 held the triumph of that party as a victory of the old master class. In
 the panic of the moment they saw in it a possible attempt to
 rehabilitate the old order of government in the South, in which they
-would be greatly oppressed if not enslaved.</p>
+would be greatly oppressed if not enslaved.
 
-<p>In the joy and exultation of the old master class over the defeat of the
+In the joy and exultation of the old master class over the defeat of the
 Republican party, and over the return of the old Democratic party to
 power, they read what they thought their doom. Jealous of their newly
 gained liberty, as well they might be, feeling themselves in peril and
 left naked to their enemies, their fears amounted to agony. But, thanks
 to the kind assurances promptly given by the President-elect and by
 other Democrats in high places, this alarm was transient, and has now
-given way in some measure to a feeling of confidence and security.</p>
+given way in some measure to a feeling of confidence and security.
 
-<p>How long this feeling of confidence and security will last, however,
+How long this feeling of confidence and security will last, however,
 will depend upon the future policy of the present administration. The
 inaugural address of President Cleveland was all that any friend of
 liberty and justice could reasonably ask for the freedmen. It was a
@@ -1259,9 +1208,9 @@ frank and manly avowal, worthy of the occasion. It accepted their
 citizenship as a fact settled beyond debate, and as a subject which
 ought to attract attention only with a view to the improvement of their
 character and their better qualification by education for the duties and
-responsibilities of citizens of the Republic.</p>
+responsibilities of citizens of the Republic.
 
-<p>No better words have dropped from the east portico of the Capitol since
+No better words have dropped from the east portico of the Capitol since
 the inauguration days of Abraham Lincoln and Gen. Grant. I believe they
 were sincerely spoken, but whether the President will be able to
 administer the government in the light of those liberal sentiments is an
@@ -1275,12 +1224,12 @@ one, though Republican I am, and have been, and ever expect to be,
 though I did what I could to elect James G. Blaine as President of the
 United States, I am disposed to trust President Cleveland. By his words,
 as well as by his oath of office, solemnly subscribed to before
-uncounted thousands of American citizens,<span class="pagenum"><a name="page_32" id="page_32">{32}</a></span> he is held and firmly bound
+uncounted thousands of American citizens, he is held and firmly bound
 to execute the Constitution of the United States in the fullness of its
 spirit and in the completeness of its letter, and thus far he has shown
-no disposition to shrink from that duty.</p>
+no disposition to shrink from that duty.
 
-<p>The Southern question is evidently the most difficult question with
+The Southern question is evidently the most difficult question with
 which President Cleveland will have to deal. Hard as it may be to manage
 his party on the civil service question, where he has only to deal with
 hungry and thirsty office-seekers, nineteen out of every twenty of whom
@@ -1288,9 +1237,9 @@ he must necessarily offend by failing to find desirable places for them,
 he will find it incomparably harder to meet that party’s wishes in
 dealing with the Southern question. There are several methods of
 disposing of this Southern question open to him, and there are lions in
-the way, whichever method he may adopt.</p>
+the way, whichever method he may adopt.
 
-<p>First. He may adopt a policy of total indifference. He may shut his eyes
+First. He may adopt a policy of total indifference. He may shut his eyes
 to the fact that in all of the Gulf States political rights of colored
 citizens are literally stamped out; that the Constitution which he has
 solemnly sworn to support and enforce is under the feet of the mob; that
@@ -1304,38 +1253,38 @@ follow it. The reasons which supported that policy do not exist in the
 case of a Democratic President. Mr. Hayes made a virtue of necessity. He
 had fair warning that not a dollar or a dime would be voted by a
 Democratic Congress if the army were kept in the South. The cry of the
-country was against what was called bayonet rule.</p>
+country was against what was called bayonet rule.
 
-<p>Secondly. The President may pursue a temporizing policy; keep the word
+Secondly. The President may pursue a temporizing policy; keep the word
 of promise to the ear and break it to the heart, a half-hearted, a
 neither hot nor cold, a good Lord and good devil policy. He may try to
 avoid giving offence to any, and thus succeed in pleasing none; a policy
 which no man or party can pursue without inviting and earning the scorn
-and contempt of all honest men and of all honest parties.</p>
+and contempt of all honest men and of all honest parties.
 
-<p>Thirdly. He may decide to accept the Mississippi plan of conducting
+Thirdly. He may decide to accept the Mississippi plan of conducting
 elections at the South; encourage violence and crime; elevate to office
 the men whose hands are reddest with innocent blood; force the negroes
-out of Southern politics by<span class="pagenum"><a name="page_33" id="page_33">{33}</a></span> the shot-gun and the bulldozer’s whip;
+out of Southern politics by the shot-gun and the bulldozer’s whip;
 cheat them out of the elective franchise; suppress the Republican vote;
 kill off their white Republican leaders, and keep the South solid; and
-keep its one hundred and fifty-three electoral votes&mdash;obtained thus by
-force, fraud, and red-handed violence&mdash;ready to be cast for a Democratic
+keep its one hundred and fifty-three electoral votes--obtained thus by
+force, fraud, and red-handed violence--ready to be cast for a Democratic
 candidate in 1888. This might be acceptable to a certain class of
 Democrats at the South, but the Democrats of the North would abhor and
 denounce it as a bloody and hell-black policy. It would hurl the party
 from power in spite of the solid South, and keep it out of power another
-four and twenty years.</p>
+four and twenty years.
 
-<p>Fourthly. He may sustain a policy of absolute fidelity to all the
+Fourthly. He may sustain a policy of absolute fidelity to all the
 requirements of the Constitution as it is, and, as John Adams said of
 the Declaration of Independence, he may bravely say to the South and to
 the nation: “Sink or swim, survive or perish, I am for the Constitution
 in all its parts! I will be true to my oath, and I will, to the best of
 my ability, and to the fullest extent of my power, defend, protect, and
-maintain the rights of all citizens, without regard to race or color.”</p>
+maintain the rights of all citizens, without regard to race or color.”
 
-<p>There can be no doubt as to which of these methods of treating the
+There can be no doubt as to which of these methods of treating the
 Southern question is the most honest and safe one. There may be many
 wrong ways for individuals or nations to pursue, but there is but one
 right way, and it remains to be seen if this is the one the present
@@ -1344,44 +1293,40 @@ heart and his own view of his constitutional duties, and to his own
 sense of the requirements of consistency, and even expediency, I firmly
 believe that President Cleveland would do his utmost to protect and
 defend the constitutional rights of all classes of citizens. But he is
-not left to himself, and may adopt a different policy.</p>
+not left to himself, and may adopt a different policy.
 
-<p>One thing seems plain, which it is well for all parties to know and
+One thing seems plain, which it is well for all parties to know and
 consider. It is this: There are 7,000,000 of colored citizens now in
-this Republic. They stand between the two great parties&mdash;the Republican
-party and the Democratic party&mdash;and whichever of these two parties shall
+this Republic. They stand between the two great parties--the Republican
+party and the Democratic party--and whichever of these two parties shall
 be most just and true to these 7,000,000 may safely count upon a long
 lease of power in this Republic. It is not their votes alone that will
 tell. There is deep down among the people of this country a love of
 justice and fair play, and that fact will tell. It is now as it was in
 the time of war, and it will be so in all time. The party which takes
-the negro on its side will tri<span class="pagenum"><a name="page_34" id="page_34">{34}</a></span>umph. The world moves, and the conditions
-of success and failure have changed.</p>
+the negro on its side will triumph. The world moves, and the conditions
+of success and failure have changed.
 
-<p>Formerly, devotion to slavery was the condition upon which the success
+Formerly, devotion to slavery was the condition upon which the success
 of the Democratic party was based. But time and events have swept away
 this abhorred condition. Liberty, not slavery, is now the autocrat of
 the Republic. Neither politics nor religion can succeed in the future by
 pandering to the prejudices arising out of slavery. Let the great
 Democratic party realize this fact, and shape its policy in accordance
 with it; let it do justice to the negro, and it will certainly succeed
-itself in power four years hence, and long years after.</p>
+itself in power four years hence, and long years after.
 
-<p>On the contrary, if it forgets the nation’s progress, falls back into
+On the contrary, if it forgets the nation’s progress, falls back into
 its old ruts, and seeks success on the old conditions; if it forgets
 that slavery has now become an anachronism, a superstition of the past,
 having no proper relation to the age and body of our times, it will be
 ignominiously driven from place and power four years hence, and no arm
-can, or ought to, save it.</p>
+can, or ought to, save it.
 
-<div class="poetry">
-<div class="poem"><div class="stanza">
-<span class="i0">“There is a tide in the affairs of men, which,<br /></span>
-<span class="i1">Taken at the flood, leads on to fortune.”<br /></span>
-</div></div>
-</div>
+    “There is a tide in the affairs of men, which,
+     Taken at the flood, leads on to fortune.”
 
-<p>This tide is now rising at the feet of President Cleveland and his
+This tide is now rising at the feet of President Cleveland and his
 administration, and, as I have said, it remains to be seen if it will be
 wisely taken at the flood. Depend upon it, if the Democratic party does
 not avail itself of the colored man’s support the Republican party
@@ -1389,9 +1334,9 @@ certainly will. That party is still the colored man’s party, and it will
 be all the more likely to consider the claims of the colored man, in
 view of its late defeat, and the causes by which that defeat was brought
 about. Twelve hundred more colored votes in the State of New York would
-have saved that party from defeat.</p>
+have saved that party from defeat.
 
-<p>Unless the ballot is protected better than heretofore the Augusta speech
+Unless the ballot is protected better than heretofore the Augusta speech
 of the Hon. James G. Blaine, delivered after the election, will be the
 keynote of the Republican campaign four years hence. There is only one
 way to prevent the success of the Republican party if that issue is
@@ -1399,19 +1344,19 @@ permitted to be raised. The Northern people were sound for free soil;
 sound for free speech; sound for the Union; sound for reconstruction in
 other days, and they will be sound for justice and liberty and a free
 ballot to the newly enfranchised citizens when that issue shall be
-fairly presented as a living issue between the two contending parties.<span class="pagenum"><a name="page_35" id="page_35">{35}</a></span></p>
+fairly presented as a living issue between the two contending parties.
 
-<p>The great mistake made by the leaders of the Republican party during the
+The great mistake made by the leaders of the Republican party during the
 late canvass was the failure to recognize the facts now stated, and
 their refusal to act upon them. They had become tired of the old issues
 and wanted new ones. They made their appeal to the pocket of the nation,
 and not to the heart of the nation. They attended to the mint, anise,
 and cummin of politics, but omitted the weightier matters of the
-law&mdash;judgment, mercy, and faith. They were loud for the protection of
+law--judgment, mercy, and faith. They were loud for the protection of
 things, but silent for the protection of men. These things they ought to
-have done, and not left the other undone.</p>
+have done, and not left the other undone.
 
-<p>The idea that righteousness exalteth a nation, and that sin is a
+The idea that righteousness exalteth a nation, and that sin is a
 reproach to any people, was, for a time, lost sight of. The
 all-engrossing thought of the campaign was a judicious, discriminating
 protective tariff. The great thing was protection to the wool of Ohio;
@@ -1419,10 +1364,10 @@ to the iron of Pennsylvania, and to American manufactures generally.
 Little was said, thought, or felt about national integrity, the
 importance of maintaining good faith with the freedmen or the Indian, or
 the protection of the constitutional rights of American citizens, except
-where such rights were in no danger.</p>
+where such rights were in no danger.
 
-<p>The great thing to be protected was American industry against
-competition with the pauper labor of Europe&mdash;not protection of the
+The great thing to be protected was American industry against
+competition with the pauper labor of Europe--not protection of the
 starving labor of the South. The body of the nation was everything; the
 soul of the nation was nothing. It did not appear from the campaign
 speeches that it was important to protect and preserve both, or that the
@@ -1437,16 +1382,16 @@ where protection and good faith are denied and withheld, and nothing
 other that this should be expected, either by a party, a man, or by a
 government. On the other hand, where good faith is maintained, where
 justice is upheld, where truth and right prevail, the government will be
-like the wise man’s house in Scripture&mdash;the winds may blow, the rains
+like the wise man’s house in Scripture--the winds may blow, the rains
 may descend, the flood may come and beat upon it, but it will stand,
-because it is founded upon the solid rock of principle. I<span class="pagenum"><a name="page_36" id="page_36">{36}</a></span> speak this,
+because it is founded upon the solid rock of principle. I speak this,
 not only for the Republican party, but for all parties. Though I am a
 party man, to me parties are valuable only as they subserve the ends of
 good government. When they persistently violate the fundamental rights
 of the humblest and weakest in the land I scout them, despise them, and
-leave them.</p>
+leave them.
 
-<p>We boast of our riches, power, and glory as a nation, and we have reason
+We boast of our riches, power, and glory as a nation, and we have reason
 to do so. But what is prosperity, what is power, what is national glory,
 when national honor, national good faith, and national protection to the
 rights of our citizens are denied? Of what avail is citizenship and the
@@ -1476,11 +1421,11 @@ by fifty years of unexampled prosperity. His idea was that if slavery
 were a curse God would not allow a nation that upheld it to prosper. The
 argument was sophistical, but it contained a great truth after all, and
 time only was required to verify it. He forgot that God reigns in
-eternity; that space is sometimes given for repentance. He did not<span class="pagenum"><a name="page_37" id="page_37">{37}</a></span>
+eternity; that space is sometimes given for repentance. He did not
 remember, as Jefferson did, that God is just, and that His justice
-cannot sleep forever.</p>
+cannot sleep forever.
 
-<p>Had Mr. Clay lived to see, as we have seen, the union of his beloved
+Had Mr. Clay lived to see, as we have seen, the union of his beloved
 country rent asunder at the centre, and hostile armies composed of his
 beloved countrymen on the field of battle, amid dust, smoke, and fire,
 blowing each other to pieces from the cannon’s mouth; had he seen five
@@ -1492,17 +1437,17 @@ of gold; had he seen the sullen discontent and deadly hate which
 survived the war, and traced all these calamities and more, as he must
 do, to the existence of slavery, he would, in all the bitterness of his
 soul, have cursed the day when he poured out his eloquence in defence of
-that system which brought upon his country these accumulated horrors.</p>
+that system which brought upon his country these accumulated horrors.
 
-<p>The lesson of this national experience is in place to-day, and it would
+The lesson of this national experience is in place to-day, and it would
 be well for this nation to study and learn it. Look abroad! What rocks
 Europe to-day? What causes the Emperor of all the Russias to be uneasy
 on his pillow? What makes Austria tremble? Why does England start up
 frantically at midnight and search her premises? You know, and I know,
 that these countries have aggrieved classes among them who have just
-ground of complaint against their governments.</p>
+ground of complaint against their governments.
 
-<p>Now, fellow-citizens, let me speak plainly. This is an age when men go
+Now, fellow-citizens, let me speak plainly. This is an age when men go
 to and fro in the earth, and knowledge increases oppressed peoples all
 over the world are protesting with earthquake emphasis against all forms
 of injustice, some by one means and some by another. Examples, like
@@ -1515,7 +1460,7 @@ no threats, for myself or for any of my countrymen, and am only for
 peaceful methods; but I say to all oppressors, “Have a care how you goad
 and imbrute the colored man of the South!” He is weak, but not
 powerless. He is submissive to wrongs, but not insensible to his rights.
-He is hopeful, but not incapa<span class="pagenum"><a name="page_38" id="page_38">{38}</a></span>ble of despair. He can endure, but even to
+He is hopeful, but not incapable of despair. He can endure, but even to
 him may come a time when he shall think endurance has ceased to be a
 virtue. All the world is a school, and in it one lesson is just now
 being taught in letters of fire and blood, and that is, the utter
@@ -1529,22 +1474,22 @@ fraud, denied a fair trial when accused of crime, he shall imitate the
 example of other oppressed classes and invokes some terrible explosive
 power as a means of bringing his oppressors to their senses, and making
 them respect the claims of justice? This would indeed be madness, but
-oppression will make even a wise man mad.</p>
+oppression will make even a wise man mad.
 
-<p>It should not be forgotten that the negro is not what he was twenty
+It should not be forgotten that the negro is not what he was twenty
 years ago. Kossuth once said that bayonets think. The negro is beginning
 to think. Years ago a book had as little to say to him and had as little
 meaning for him as a brick. It was then a thing of darkness and silence.
 Now it is a thing of light and speech. Education, the sheet anchor of
 safety to society where liberty and justice are secure, is a dangerous
-thing to society in the presence of injustice and oppression.</p>
+thing to society in the presence of injustice and oppression.
 
-<p>I pursue this thought no further. A hint to the wise ought to be
+I pursue this thought no further. A hint to the wise ought to be
 sufficient. Let not my words be construed as a menace, but taken as I
-mean them&mdash;as a warning; not interpreted as inviting disaster, but
-considered as designed to avert disaster.</p>
+mean them--as a warning; not interpreted as inviting disaster, but
+considered as designed to avert disaster.
 
-<p>Fellow-citizens, many things calculated to make us thoughtful have
+Fellow-citizens, many things calculated to make us thoughtful have
 occurred since I addressed you on an occasion like this, two years ago;
 but nothing has occurred which ought to make us more thoughtful than the
 recent decision of the Supreme Court of the United States on the civil
@@ -1553,13 +1498,13 @@ from a clear sky. It came without warning. It was a surprise to enemies
 and a bitter disappointment to friends. Had the bench been composed of
 Democratic judges some such a decision might have come upon us without
 producing any very startling effect. But the fact was otherwise. This
-blow was dealt us in the house of our friends. The bench was<span class="pagenum"><a name="page_39" id="page_39">{39}</a></span> composed
+blow was dealt us in the house of our friends. The bench was composed
 of nine learned Republican judges, and of these nine honorable men only
 one came to our help, I mean Honorable Justice John M. Harlan. He stood
 up for the rights of colored citizens as those rights are defined by the
-fourteenth amendment of the Constitution of the United States.</p>
+fourteenth amendment of the Constitution of the United States.
 
-<p>It was a magnificent spectacle, this grand representation of American
+It was a magnificent spectacle, this grand representation of American
 justice standing alone, and the country will not soon forget it. Without
 meaning any disrespect to the Supreme Court, or reflecting upon the
 purity of its motives, I must say here, as I have said elsewhere, and
@@ -1571,29 +1516,29 @@ rule of construction has the approval of all the ages, but the Supreme
 Court of the United States construed American law against the weak and
 in the interest of prejudice and brutality. Never before was made so
 clear the meaning of Paul’s saying, “The letter killeth, but the spirit
-giveth life.”</p>
+giveth life.”
 
-<p>I am glad, and I know that you are glad, that there was one man on that
+I am glad, and I know that you are glad, that there was one man on that
 bench who had the mind and heart to be as true to liberty in this its
 day as was the old Supreme Court of slavery in its day. While slavery
 existed all presumptions were made in its favor. The obvious intention
 of the law prevailed, but now the plain intention of the law has been
-strangled by the letter of the law.</p>
+strangled by the letter of the law.
 
-<p>The fourteenth amendment of the Constitution was plainly intended to
+The fourteenth amendment of the Constitution was plainly intended to
 secure equal rights to all citizens of the United States, without regard
 to race or color, and Congress was authorized to carry out this
 provision by appropriate legislation. But by this decision of the
 Supreme Court the fourteenth amendment has been slain in the house of
 its friends. I have no doubt that that decision contributed to the
 defeat of the Republican party in the late election. I repeat, that
-decision may well make colored men thoughtful.</p>
+decision may well make colored men thoughtful.
 
-<p>Kentucky has done many evil things in her time, but she has also done
+Kentucky has done many evil things in her time, but she has also done
 many great and good things. She has recently given us a law by which
 equal educational advantages have been extended to colored children.
 Long ago she gave us James G. Birney, the first abolition candidate for
-the presidency of the United States; a former slave-holder, but one<span class="pagenum"><a name="page_40" id="page_40">{40}</a></span> who
+the presidency of the United States; a former slave-holder, but one who
 emancipated his slaves on his own motion; a genuine gentleman of the old
 school, and one to be gratefully remembered by every friend of liberty
 in this country. She has given us Cassius M. Clay, the man who fought
@@ -1602,21 +1547,21 @@ G. Fee, the earnest and devoted educator of the freedman. Nor is this
 all. She has given us two of the largest hearts and broadest minds of
 which our country can boast; men who had the courage of their
 convictions, and who dared, at the peril of what men hold most dear, to
-be true to their convictions. These strong men&mdash;one dead and the other
-living&mdash;are Abraham Lincoln and John M. Harlan. Abraham Lincoln is
+be true to their convictions. These strong men--one dead and the other
+living--are Abraham Lincoln and John M. Harlan. Abraham Lincoln is
 already enshrined in the hearts of the American people, and Justice John
-M. Harlan will hold a place beside him in the hearts of his countrymen.</p>
+M. Harlan will hold a place beside him in the hearts of his countrymen.
 
-<p>You remember the public meeting held in Lincoln Hall, and the free
+You remember the public meeting held in Lincoln Hall, and the free
 expression of opinion upon the unsoundness of the decision of the
 Supreme Court on the civil rights bill. You will also remember that the
 ablest and boldest words there spoken were from the lips of Robert G.
 Ingersoll, a man everywhere spoken against as an infidel and a
 blasphemer. Well, my friends, better be an infidel and a so-called
 blasphemer than a hypocrite who steals the livery of the court of heaven
-to serve the devil in.</p>
+to serve the devil in.
 
-<p>Infidel though Mr. Ingersoll may be called, he never turned his back
+Infidel though Mr. Ingersoll may be called, he never turned his back
 upon his colored brothers, as did the evangelical Christians of this
 city on the occasion of the late visit of Mr. Moody. Of all the forms of
 negro hate in this world, save me from that one which clothes itself
@@ -1625,23 +1570,23 @@ identified himself with the lowest classes of suffering men, and the
 proof given of his Messiahship was that the poor had the Gospel preached
 unto them. The negro can go into the circus, the theatre, the cars, and
 can be admitted into the lectures of Mr. Ingersoll, but cannot go into
-an Evangelical Christian meeting.</p>
+an Evangelical Christian meeting.
 
-<p>I do not forget that on the occasion of the civil rights meeting I have
+I do not forget that on the occasion of the civil rights meeting I have
 mentioned, one evangelical clergyman, a real man of God, gave to the
 gospel trumpet a certain sound. The religion of Dr. John E. Rankin, like
 the love of his Redeemer, is not bounded by race or color, but takes in
 the whole human family. No truer man than he ever ascended a Washington
-pulpit.<span class="pagenum"><a name="page_41" id="page_41">{41}</a></span></p>
+pulpit.
 
-<p>In conclusion let me say one word more of the soul of the nation and of
+In conclusion let me say one word more of the soul of the nation and of
 the importance of keeping it sensitive and responsive to the claims of
 truth, justice, liberty, and progress. In speaking of the soul of the
 nation I deal in no cant phraseology. I speak of that mysterious,
 invisible, impalpable something which underlies the life alike of
-individuals and of nations, and determines their character and destiny.</p>
+individuals and of nations, and determines their character and destiny.
 
-<p>It is the soul that makes a nation great or small, noble or ignoble,
+It is the soul that makes a nation great or small, noble or ignoble,
 weak or strong. It is the soul that exalts it to happiness, or sinks it
 to misery. While it modifies and shapes all physical conditions, it is
 itself superior to all such conditions. It is the spiritual side of
@@ -1653,41 +1598,41 @@ just as ancient temples and old cathedrals may stand long after the
 spirit that inspired them has vanished. But they, too, will moulder to
 ruin and vanish. The life of the nation is secure only while the nation
 is honest, truthful, and virtuous; for upon these conditions depend the
-life of its life.</p>
+life of its life.
 
-<p>A few years ago a terrible and desolating fire swept over the proud
+A few years ago a terrible and desolating fire swept over the proud
 young city of Chicago, and left her architectural splendors in ashes. In
 a few hours her “cloud-capped towers and gorgeous palaces” and solemn
 temples crumbled to dust, and were scattered to the four winds of
 heaven, so that no man could find them, but there remained the invisible
 soul of a great people, full of energy, enterprise, and faith, and
 hence, out of the ashes and hollow desolation, a grander Chicago than
-the one destroyed arose “as if by magic.”</p>
+the one destroyed arose “as if by magic.”
 
-<div class="poetry">
-<div class="poem"><div class="stanza">
-<span class="i2">“What constitutes a state?<br /></span>
-<span class="i0">Not high raised battlements, or labored mound,<br /></span>
-<span class="i2">Thick walls or moated gate;<br /></span>
-<span class="i0">Not cities proud, with spires and turrets crowned;<br /></span>
-<span class="i2">Not bays and broad armed ports,<br /></span>
-<span class="i0">Where, laughing at the storm, rich navies ride.<br /></span>
-<span class="i2">No, men; high-minded men!<br /></span>
-<span class="i0">With power as far above dull brutes endued,<br /></span>
-<span class="i2">In forest, brake, or den,<br /></span>
-<span class="i0">As beasts excel cold rocks and brambles rude;<br /></span>
-<span class="i2">Men who their duties know,<br /></span>
-<span class="i0">But know their rights, and knowing, dare maintain.”<br /></span>
-<span class="pagenum"><a name="page_42" id="page_42">{42}</a></span></div></div>
-</div>
+      “What constitutes a state?
+    Not high raised battlements, or labored mound,
+      Thick walls or moated gate;
+    Not cities proud, with spires and turrets crowned;
+      Not bays and broad armed ports,
+    Where, laughing at the storm, rich navies ride.
+      No, men; high-minded men!
+    With power as far above dull brutes endued,
+      In forest, brake, or den,
+    As beasts excel cold rocks and brambles rude;
+      Men who their duties know,
+    But know their rights, and knowing, dare maintain.”
 
-<h2><a name="IN_WASHINGTON_D_C_1886" id="IN_WASHINGTON_D_C_1886"></a>IN WASHINGTON, D. C., 1886.</h2>
 
-<div class="blockquot"><p>In introducing Mr. <span class="smcap">Frederick Douglass</span>, on the occasion of the
-Twenty-fourth Anniversary of Emancipation in the District of
-Columbia, Prof. <span class="smcap">J. M. Gregory</span> made the following remarks:</p></div>
 
-<p><span class="smcap">Ladies and Gentlemen:</span> For many years prior to 1861 the friends of
+
+IN WASHINGTON, D. C., 1886.
+
+     In introducing Mr. FREDERICK DOUGLASS, on the occasion of the
+     Twenty-fourth Anniversary of Emancipation in the District of
+     Columbia, Prof. J. M. GREGORY made the following remarks:
+
+
+LADIES AND GENTLEMEN: For many years prior to 1861 the friends of
 freedom, seeing the prominence slavery had acquired because of its
 existence at the capital of the nation, and the evil influence which it
 necessarily exerted upon legislation, sought in vain by petitions and
@@ -1695,9 +1640,9 @@ other measures for its abolition in the District of Columbia. It was
 not, however, till the national conscience began to be quickened by the
 reverses of our armies, and legislators to realize the dangers which
 threatened the life of the nation, that the cause could muster
-sufficient strength to gain a hearing in Congress.</p>
+sufficient strength to gain a hearing in Congress.
 
-<p>On the 16th of December, 1861, Mr. Wilson, of Massachusetts, introduced
+On the 16th of December, 1861, Mr. Wilson, of Massachusetts, introduced
 into the Senate a bill providing for the immediate emancipation of
 slaves in the District upon the payment to the owners of $300 for each
 slave. As was to be expected the bill was antagonized by pro-slavery men
@@ -1707,34 +1652,34 @@ South. As subsequent events proved their fears were not without
 foundation. Notwithstanding the bitter opposition which the bill
 encountered, it passed both houses of Congress in less than four months
 from its first introduction in the Senate, and was approved by the
-President on the 16th of April, just twenty-four years ago to-day.</p>
+President on the 16th of April, just twenty-four years ago to-day.
 
-<p>The debates on this and kindred questions makes memorable the second
+The debates on this and kindred questions makes memorable the second
 session of the Thirty-seventh Congress, and they are of special interest
 because they indicated a new departure in the line of argument pursued
 by Northern statesmen. They based their arguments for emancipation, not
 upon grounds of expediency, but the great principles of right and
-justice.</p>
+justice.
 
-<p>The importance of this act must not be overlooked. It struck the
+The importance of this act must not be overlooked. It struck the
 shackles from the limbs of 3,000 human beings and placed them in the
-ranks of freemen. It took away the<span class="pagenum"><a name="page_43" id="page_43">{43}</a></span> shame which slavery had brought upon
+ranks of freemen. It took away the shame which slavery had brought upon
 the National Capital. But this was not all. It elevated the nation in
 its own eyes and in the eyes of the civilized world, and roused a
 feeling of patriotism and pride. It called forth an expression from the
 National Legislature, and a majority of the members by solemn vote
 arrayed themselves on the side of emancipation and liberty, in
 opposition to slavery and oppression. It was the forerunner of the great
-emancipation proclamation&mdash;that proclamation which more than all his
-other acts makes the name of Abraham Lincoln secure to all posterity.</p>
+emancipation proclamation--that proclamation which more than all his
+other acts makes the name of Abraham Lincoln secure to all posterity.
 
-<p>In our rejoicing on this occasion we should not forget to hold in
+In our rejoicing on this occasion we should not forget to hold in
 grateful remembrance the men whose votes secured the passage of the
 bill, and especially its author, a man who by his works proved himself a
 friend of the oppressed, Hon. Henry Wilson, the benefactor of the
-District.</p>
+District.
 
-<p>When the emancipation bill became a law in 1862, there were 15,000
+When the emancipation bill became a law in 1862, there were 15,000
 colored people in the District of Columbia, 12,000 of whom were free and
 the remainder slaves. They maintained eight schools for the education of
 their children, and were the owners of twelve churches, which cost about
@@ -1742,9 +1687,9 @@ $75,000. With the increase of population came the demand for more
 churches, so that to-day they have eighty churches and missions in the
 District. Many of the churches are very valuable and located on some of
 the principal streets and avenues, the new Metropolitan Church alone
-being valued at $100,000.</p>
+being valued at $100,000.
 
-<p>Under the old system the word “colored” appeared opposite the name of
+Under the old system the word “colored” appeared opposite the name of
 each colored person paying taxes on the books of the Collector of Taxes.
 Now, no such distinction is made, and there are no data from which the
 number paying taxes among colored citizens can be definitely known. From
@@ -1757,9 +1702,9 @@ at $75,000, six at $25,000, fifteen at $20,000, twenty at $10,000, and
 fifty at $5,000, making in the aggregate at least a million of dollars.
 I am positively assured that the increase in the valuation of property
 owned by colored men since emancipation is 100 per cent. This, we think,
-is a most creditable showing for our property interests.<span class="pagenum"><a name="page_44" id="page_44">{44}</a></span></p>
+is a most creditable showing for our property interests.
 
-<p>Of the 15,000 colored people in the District at the time of emancipation
+Of the 15,000 colored people in the District at the time of emancipation
 there were proportionately more skilled carpenters and masons than now
 in a population of 70,000. But labor has become more diversified. We are
 now engaged in pursuits in which we had no experience before the war. In
@@ -1774,9 +1719,9 @@ largest and most successful hospitals in the country. Government
 employment tends to keep out many from some business occupations in
 which the people in other large cities engage, but this disadvantage, if
 disadvantage it be considered, operates no more against us than against
-other citizens.</p>
+other citizens.
 
-<p>The greatest progress made, however, and that which is necessarily the
+The greatest progress made, however, and that which is necessarily the
 first in order of time and importance, has been in matters of education.
 The schools have increased from 8 to 174, with an average attendance of
 9,000 children, giving employment to more than 100 teachers. Twelve of
@@ -1794,11 +1739,11 @@ institutions of learning, for they are the chief instruments through
 which our children are to receive the training which will fit them to
 properly discharge the duties that will afterward devolve upon them as
 men and women and to elevate the race to an equality of development and
-enlightenment with other peoples.</p>
+enlightenment with other peoples.
 
-<p>We often hear the question asked, “What are we to do with the
+We often hear the question asked, “What are we to do with the
 Americanized negro?” Articles have appeared in newspapers, pamphlets,
-and magazines giving what the author re<span class="pagenum"><a name="page_45" id="page_45">{45}</a></span>gards as a proper solution of
+and magazines giving what the author regards as a proper solution of
 the negro problem, so-called. But I ask why should there be a negro
 problem any more than a problem for any other class of the American
 people? We need not go far to seek the answer. It is found in the fact
@@ -1815,22 +1760,22 @@ Garfield at Mentor, he said in reply to the address, to which he had
 given respectful attention, that he did not profess to be more of a
 friend to colored men than hundreds of others, but he was in favor of
 giving, and, so far as it was consistent with the duties of his office,
-would give them <i>opportunity</i> to achieve success for themselves. This is
+would give them _opportunity_ to achieve success for themselves. This is
 all we ask to-day. This is all we can reasonably ask. Give us fair play,
-equal opportunity, and we will work out our own destinies.</p>
+equal opportunity, and we will work out our own destinies.
 
-<p>Ten years ago, in this city, on the occasion of the unveiling of the
+Ten years ago, in this city, on the occasion of the unveiling of the
 Freedman’s Monument in memory of Abraham Lincoln, an eminent divine,
 after congratulating the orator of the day upon his masterly portrayal
 of the character of the martyr President, turned to General Grant and
 said: “There is but one Frederick Douglass.” This distinguished citizen,
 the orator who paid the eloquent tribute to the memory of Mr. Lincoln on
 the occasion referred to, the Hon. Frederick Douglass, will now address
-you.</p>
+you.
 
-<p>At the conclusion of Prof. Gregory’s remarks Mr. Douglass said:</p>
+At the conclusion of Prof. Gregory’s remarks Mr. Douglass said:
 
-<p><span class="smcap">Friends and Fellow-Citizens:</span> I appear before you again, and for the
+FRIENDS AND FELLOW-CITIZENS: I appear before you again, and for the
 third time since my residence among you, to assist in the celebration of
 the abolition of slavery in the District of Columbia. And while I highly
 appreciate the honor and the confidence implied in your call upon me to
@@ -1838,7 +1783,7 @@ do so, when I consider the importance of the task it has imposed, I can
 say in all sincerity, as I have said before, that I wish that your
 choice of speaker had fallen upon one of our young men, quite as well
 qualified to serve you as myself. I want to see them coming to the front
-as I am retiring to the rear.<span class="pagenum"><a name="page_46" id="page_46">{46}</a></span> Then the fact that I have several times
+as I am retiring to the rear. Then the fact that I have several times
 addressed you upon subjects naturally suggested by the recurrence of
 this interesting anniversary is, of itself, somewhat embarrassing. It is
 not an easy task to speak many times on the same subject, before the
@@ -1852,9 +1797,9 @@ the material is abundant. The phases of public affairs touching the
 colored people of the United States are never stationary. They change
 with every season, and often many times in the course of a single year.
 There is no standing still for anybody in this world. We are either
-rising or falling, advancing or retreating.</p>
+rising or falling, advancing or retreating.
 
-<p>Last year, at this time, we were confronted with an unusual and somewhat
+Last year, at this time, we were confronted with an unusual and somewhat
 alarming state of facts. We stood at the gateway of a new and strange
 administration. After wandering about during twenty-four years, seeking
 rest and finding none, often hungry and sometimes thirsty, and, though
@@ -1875,7 +1820,7 @@ dancing, and learned what it was all about, he was not over well
 pleased, and thought his father not only soft-hearted, but a little
 soft-headed, and a trifle ungrateful, if not crazy withal. But elder
 brothers, you know, are usually reasonable and patient, and are
-generally quite submissive to parental authority, and though he knew<span class="pagenum"><a name="page_47" id="page_47">{47}</a></span>
+generally quite submissive to parental authority, and though he knew
 the bad character of the young truant who had now come home, he hoped he
 had reformed. How far this cheerful and patient hope has been justified
 by one year of this administration I will not now stop to say; I may,
@@ -1904,23 +1849,23 @@ thoughtful, somewhat mystified by what is passing around us, but
 hopeful, strong to suffer, and yet strong to strive, with a moderate
 degree of faith that, under the Constitution and its amendments, we
 shall yet be clothed with dignity of freedom and American citizenship.
-But more of this in the right place.</p>
+But more of this in the right place.
 
-<p>I take it that no apology is needed for these annual celebrations, for,
+I take it that no apology is needed for these annual celebrations, for,
 notwithstanding the unfriendly outlook of affairs, we have yet much over
 which to rejoice. Besides, such demonstrations of popular feeling in
 regard to large benefits received and progress made, are consistent with
 and creditable to human nature. They have been observed all along the
 line of by-gone ages, and are peculiar to no class, clime, race, or
 color. From the day that Moses is said to have smote the Red Sea, and
-the Hebrews passed safely over<span class="pagenum"><a name="page_48" id="page_48">{48}</a></span> from Egyptian bondage, leaving Pharaoh
+the Hebrews passed safely over from Egyptian bondage, leaving Pharaoh
 overwhelmed and struggling with that hell of waters, down to the 4th of
 July, 1776, when the fathers of this Republic threw off the British
 yoke, declared their independence, and appealed to the god of battles,
 similar events to that which we now celebrate have been gratefully and
-joyfully commemorated.</p>
+joyfully commemorated.
 
-<p>If, for any reason, I feel like apologizing to-day, it is not for this
+If, for any reason, I feel like apologizing to-day, it is not for this
 celebration, but for an incident connected with it, and by which it is
 greatly marred. For the first time since the emancipation of the slaves
 of the District of Columbia we have two celebrations in progress at the
@@ -1945,15 +1890,15 @@ such childish things and shall act more wisely. We shall think more of a
 common cause and its requirements and less of obligation to support the
 claims of rival individual leaders. Depend upon it, a repetition of this
 spectacle will bring our celebrations into disgrace and make them
-despicable.</p>
+despicable.
 
-<p>The thought is already gaining ground, that we have not heretofore
+The thought is already gaining ground, that we have not heretofore
 received the best influence which this anniversary is capable of
 exerting; that tinsel show, gaudy display, and straggling processions,
 which empty the alleys and dark places of our city into the broad
 daylight of our thronged streets and avenues, thus thrusting upon the
 public view a vastly undue proportion of the most unfortunate,
-unim<span class="pagenum"><a name="page_49" id="page_49">{49}</a></span>proved, and unprogressive class of the colored people, and thereby
+unimproved, and unprogressive class of the colored people, and thereby
 inviting public disgust and contempt, and repelling the more thrifty and
 self-respecting among us, is a positive hurt to the whole colored
 population of this city. These annual celebrations of ours should be so
@@ -1970,9 +1915,9 @@ I am sure that such a lecture as I have now given on this point may be
 distasteful to a part of this assembly. But I can say, in all truth,
 that nothing short of a profound desire to promote the best interests of
 all concerned, has emboldened me to run the risk of such displeasure,
-and I hope the motive will excuse my offence.</p>
+and I hope the motive will excuse my offence.
 
-<p>And now, fellow-citizens, I turn away from this and other merely race
+And now, fellow-citizens, I turn away from this and other merely race
 considerations, to those common to all our fellow citizens, yet happily
 those in which we, too, are included. I call attention to the proposed
 celebration of the centennial anniversary of our present form of
@@ -1990,16 +1935,16 @@ perfect union.” Second. “To establish justice.” Third. “To provide for
 the common defense.” Fourth. “To insure domestic tranquillity.” Fifth.
 “To promote the general welfare.” And sixth. “Secure the blessings of
 liberty to ourselves and our posterity.” Perhaps there never was an
-instrument framed by men at the be<span class="pagenum"><a name="page_50" id="page_50">{50}</a></span>ginning of any national career
+instrument framed by men at the beginning of any national career
 designed to accomplish nobler objects than those set forth in the
 preamble of this constitution. They are objects worthy of a great
 nation, worthy of those who gave to the world the immortal Declaration
 of Independence, in which they asserted the equal rights of man, and
 boldly declared in the face of all the divine right governments of
 Europe the doctrine that governments derive their right to govern from
-the consent of the governed.</p>
+the consent of the governed.
 
-<p>How far these fundamental objects, solemnly set forth in the
+How far these fundamental objects, solemnly set forth in the
 Constitution, have been realized by the practical operation of the
 Government created under it, I will not stop just now to state or
 explain. Whether the Union has been perfectly formed, whether under the
@@ -2028,59 +1973,59 @@ the rose. From a population of seven millions, we have reached the
 enormous number of fifty millions; and in less than half a century we
 shall have double that number. Such an augmentation of wealth, power,
 and population has no example in the experience of any nation in ancient
-or modern times. The mind grows dizzy in contemplation of the future<span class="pagenum"><a name="page_51" id="page_51">{51}</a></span> of
+or modern times. The mind grows dizzy in contemplation of the future of
 a country so great and so increasing in greatness, and to whose
 greatness there seems to be no limit. The question naturally arises,
 what is to be the effect of such accumulated wealth, such vast increase
 of population, such expanded domain, and such augmentation of national
 power? Plainly enough either one of two very opposite conditions may
 arise. It may either blast or bless, it may lift us to heaven or sink us
-to perdition.</p>
+to perdition.
 
-<p>If we shall become proud, selfish, imperious, oppressive, and rapacious;
+If we shall become proud, selfish, imperious, oppressive, and rapacious;
 if we shall persist in trampling on the weak and exalting the strong,
 worshipping the rich and despising the poor, our doom as a nation is
-already foreshadowed.</p>
+already foreshadowed.
 
-<p>That Almighty Power recognized in one form or another by all thoughtful
+That Almighty Power recognized in one form or another by all thoughtful
 men; that Almighty Power which controls every atom of the earth, and
 governs the universe; that Almighty Power which stood and measured the
 globe, which beheld and drove asunder the nations, will surely deal with
 us in the future as that Power has dealt in the past with other wicked
-nations&mdash;it will bring us to dust and ashes. The rule of life for
+nations--it will bring us to dust and ashes. The rule of life for
 individuals and for nations is the same. Neither can escape the
 consequences of transgression. As they sow, so shall they reap. There is
 no salvation for either outside of a life of truth and justice.
 Contradiction to this in theory, for either individuals or nations, is a
 damning heresy; and contradiction to this in practice is certain
-destruction.</p>
+destruction.
 
-<p>Large and imposing plans are just now proposed, and are maturing, for
+Large and imposing plans are just now proposed, and are maturing, for
 the appropriate celebration of this first centennial year of our
 national life. If these plans should be perfected and executed, as they
 probably will be, and as they certainly should be, Washington will
 witness a demonstration in this line far transcending in grandeur and
 sublimity the centennial exposition in the city of Philadelphia ten
-years ago.</p>
+years ago.
 
-<p>These celebrations, like our own, have large uses. They serve as lofty
+These celebrations, like our own, have large uses. They serve as lofty
 pedestals or platforms from which the national patriotism and
 intelligence may survey the past, and, in some sense, penetrate and
-divine the national future.</p>
+divine the national future.
 
-<p>It is also fit and proper that our young and beautiful city of
+It is also fit and proper that our young and beautiful city of
 Washington should be the theatre of such a grand national centennial
 demonstration. It is the capital of the nation, and is, in some sense,
 the shining sun of our national system, around which our thirty-eight
 States, linked and inter-linked in one unbroken national interest,
 revolve in union. Upon this spot no one citizen has more rights than
-another.<span class="pagenum"><a name="page_52" id="page_52">{52}</a></span> The right to be here is vested in all alike. Distance does not
+another. The right to be here is vested in all alike. Distance does not
 diminish or alienate, contiguity does not increase any man’s right on
 this soil. In this capital of the nation California is equal to
 Virginia, and, as Webster said of Bunker Hill, “Wherever else we may be
-strangers, we are all at home here.”</p>
+strangers, we are all at home here.”
 
-<p>As a part of the people of this great country, we may feel ourselves
+As a part of the people of this great country, we may feel ourselves
 included. We represent the class which has enriched our soil with its
 blood, watered it with its tears, and defended it with its strong arms,
 but have hitherto been excluded from all part in our national glory.
@@ -2088,18 +2033,18 @@ Now, however, all is changed. We may look forward with pleasure to the
 promised National Centennial Exposition, and take some credit to
 ourselves for helping to make the District of Columbia a suitable place
 for such a display. We have at least done a large proportion of the most
-laborious and needed work to this end.</p>
+laborious and needed work to this end.
 
-<p>The wisdom of the framers of the Constitution of the United States in
+The wisdom of the framers of the Constitution of the United States in
 granting to the nation, through its Congress, exclusive legislative
 jurisdiction over the District of Columbia, has in nothing been more
 abundantly and happily vindicated than in the abolition of slavery, and
 in making it the freest territory of this country. The benefits of this
 act are, however, not confined to the colored people. They are shared by
 all the people of this District; not more by the colored than by the
-white people.</p>
+white people.
 
-<p>Washington owes nothing to Maryland or Virginia (though born of those
+Washington owes nothing to Maryland or Virginia (though born of those
 parents) in comparison to its debt to the nation. Through the National
 Government it has become the elegant and beautiful city that it is. It
 is the nation that has graded and paved its broad and far-reaching
@@ -2113,16 +2058,16 @@ warriors, patriots, and heroes; it is the nation that has built here
 those vast structures, the different departments, and crowned yonder
 hill with a Capitol, one of the proudest architectural wonders of the
 world; it is the nation that has built Washington Monument, the pride of
-the city, the tallest structure that ever<span class="pagenum"><a name="page_53" id="page_53">{53}</a></span> rose from the ground toward
+the city, the tallest structure that ever rose from the ground toward
 heaven at the bidding of human pride, patriotism, or piety, standing
 there in full view of all comers, whether approaching by land or water,
 with its base deep down in the earth, and its capstone against the sky,
 receiving and reflecting every light and shadow of the passing hour,
 steady alike in sunshine and storm, defying lightning, whirlwind, and
-earthquake&mdash;its grandeur and sublimity, like Niagara, impress us more
-and more the longer we hold it in range of vision.</p>
+earthquake--its grandeur and sublimity, like Niagara, impress us more
+and more the longer we hold it in range of vision.
 
-<p>But the nation, as I have already said, has done more for the District
+But the nation, as I have already said, has done more for the District
 of Columbia than to clothe it with material greatness and splendor. It
 has, by the act of emancipation, imparted to it a moral beauty. It has
 not only made it a pleasure to the eye, but a joy to the heart. No
@@ -2132,9 +2077,9 @@ and good thing fifteen years ago by giving us a local government, and a
 Shepherd that lifted the city out of its deep mud and above its blinding
 dust and put it on the way to its present greatness, but it did a
 greater and better thing when it lifted it out of the mire of barbarism
-coincident with slavery.</p>
+coincident with slavery.
 
-<p>Fellow-citizens, we are proud to-day, and justly proud, of the
+Fellow-citizens, we are proud to-day, and justly proud, of the
 prosperity and the increasing liberality of Washington. With all our
 fellow-citizens we behold it with pride and pleasure rising and
 spreading noiselessly around us, almost like the temple of Solomon,
@@ -2148,11 +2093,11 @@ with admiration and wonder. The contrast between the old time of slavery
 and the new dispensation of liberty looms upon us on every hand. We feel
 it in the very air we breathe, and in the friendly aspect of all around
 us. But time would fail to tell of the vast and wonderful advancement in
-civilization made in this city by the abolition of slavery.</p>
+civilization made in this city by the abolition of slavery.
 
-<p>Perhaps a better idea could be formed of what has been done for
+Perhaps a better idea could be formed of what has been done for
 Washington and for us by imagining what would be the case in a return to
-the old condition of things. Imagine<span class="pagenum"><a name="page_54" id="page_54">{54}</a></span> the wheels of progress reversed;
+the old condition of things. Imagine the wheels of progress reversed;
 imagine that by some strange and mysterious freak of fortune slavery,
 with all its horrid concomitants, was revived; imagine that under the
 dome of yonder Capitol legislation was carried on, as formerly, by men
@@ -2187,7 +2132,7 @@ slaughter. In its boldest days slavery drew in its claws and presented a
 velvet paw to strangers. They knew it was like Lord Granby’s character,
 which could only pass without reprobation as it passed without
 observation. Emancipation liberated the master as well as the slave. The
-fact that our citizens are now loudly proclaiming Washington to be the<span class="pagenum"><a name="page_55" id="page_55">{55}</a></span>
+fact that our citizens are now loudly proclaiming Washington to be the
 right place for the celebration of the discovery of the continent by
 Columbus, and the adoption of the Constitution of the United States, is
 an acknowledgement of and attestation of the higher civilization that
@@ -2200,9 +2145,9 @@ from the limbs of the slave the mantle of shame dropped from the brows
 of their masters. The emancipation of the one was the deliverance of the
 other; so that this day, in fact, belongs to the one as truly as it
 belongs to the other, though it is left to us alone to keep it in
-memory.</p>
+memory.
 
-<p>It is usual on occasions of this kind, not only to set forth, as I have
+It is usual on occasions of this kind, not only to set forth, as I have
 in some measure done, what has been gained by the abolition of slavery,
 but also to speak of the causes and instrumentalities which contributed
 to this grand result. If this were my first appearance before you on
@@ -2222,17 +2167,17 @@ all who would serve the human family in its march from barbarism to a
 higher state of civilization. In my judgment there never was a band of
 reformers more unselfish, more consistent with their principles, more
 ardent in their devotion to any cause than were these early anti-slavery
-men and women of this country.</p>
+men and women of this country.
 
-<p>The charge is sometimes made that the colored people are ungrateful to
+The charge is sometimes made that the colored people are ungrateful to
 their benefactors. In my judgment no charge could be more unjust. In
-whatever else they have failed,<span class="pagenum"><a name="page_56" id="page_56">{56}</a></span> they have ever shown a laudable sense
+whatever else they have failed, they have ever shown a laudable sense
 of gratitude. The names of William Lloyd Garrison, Wendell Phillips,
 John P. Hale, Charles Sumner, Gerrit Smith, Abraham Lincoln, Ulysses S.
 Grant, and a host of others are never pronounced by us but with
-sentiments of high appreciation and sincere gratitude.</p>
+sentiments of high appreciation and sincere gratitude.
 
-<p>Of course I cannot deny that there are those amongst us who, either
+Of course I cannot deny that there are those amongst us who, either
 thoughtlessly or selfishly, or both, dare to deny their obligations to
 the great Republican party and its leaders. They insist upon it that
 freedom came to them only as an act of military necessity. They see in
@@ -2259,12 +2204,12 @@ surprising. Do they not see that in denying their obligations to the
 Republican party they only invite the scorn and contempt of the
 Democratic party? Do they not understand that they are advertising
 themselves as base political ingrates? Do they not know that they are
-giving notice to the Democratic party&mdash;the party that they are just now
-aiming to conciliate&mdash;that they will be as unjust and ungrateful to that
+giving notice to the Democratic party--the party that they are just now
+aiming to conciliate--that they will be as unjust and ungrateful to that
 party for any concessions from it as they declare themselves to be to
-the Republican party for what that party has done?<span class="pagenum"><a name="page_57" id="page_57">{57}</a></span></p>
+the Republican party for what that party has done?
 
-<p>But, fellow-citizens, while I gratefully remember the important services
+But, fellow-citizens, while I gratefully remember the important services
 of the Republican party in emancipating and enfranchising the colored
 people of the United States, I do not forget that the work of that party
 is most sadly incomplete. We are yet, as a people, only half-free. The
@@ -2275,9 +2220,9 @@ be ended until the persons, the property, and the ballot of the colored
 man shall be as well protected in every State of the American Union as
 are such rights in the case of the white man. The Republican party is
 not perfect. It is cautious even to the point of timidity; but it is,
-nevertheless, the best political force and friend we have.</p>
+nevertheless, the best political force and friend we have.
 
-<p>And now I return to the point at which I commenced these remarks. I have
+And now I return to the point at which I commenced these remarks. I have
 spoken to you of the adoption of the Constitution of the United States
 and of the national progress and prosperity under that instrument; I
 have called your attention to the noble objects announced in the
@@ -2300,7 +2245,7 @@ fear or favor, and the truth is that neither the Republican party nor
 the Democratic party has yet complied with the solemn oath, taken by
 their respective representatives, to support the Constitution, and
 execute the laws enacted under its provisions. They have promised us
-law, and abandoned us to anarchy; they have promised protection, and<span class="pagenum"><a name="page_58" id="page_58">{58}</a></span>
+law, and abandoned us to anarchy; they have promised protection, and
 given us violence; they have promised us fish, and given us a serpent. A
 vital and fundamental object which they have sworn to realize to the
 best of their ability, is the establishment of justice. This is one of
@@ -2337,9 +2282,9 @@ continue to go through the solemn mockery, the empty form of swearing by
 the name of Almighty God that they will execute the laws and the
 Constitution; that they will establish justice, insure domestic
 tranquility, and secure the blessings of liberty to ourselves and to our
-posterity.<span class="pagenum"><a name="page_59" id="page_59">{59}</a></span></p>
+posterity.
 
-<p>Only a few weeks ago, at Carrolton Court-house, Mississippi, in the
+Only a few weeks ago, at Carrolton Court-house, Mississippi, in the
 absence of all political excitement, while the Government of the nation,
 as well as the government of the Southern States, was safely in the
 hands of the Democratic party; when there was no pending election, and
@@ -2351,29 +2296,25 @@ nine others, most of whom have since died. The sad thing is that, in the
 average American mind, horrors of this character have become so frequent
 since the slave-holding rebellion that they excite neither shame nor
 surprise; neither pity for the slain, nor indignation for the slayers.
-It is the old story verified:</p>
+It is the old story verified:
 
-<div class="poetry">
-<div class="poem"><div class="stanza">
-<span class="i0">“Vice is a monster of such frightful mien<br /></span>
-<span class="i1">That, to be hated, needs but to be seen;<br /></span>
-<span class="i1">But seen too oft, familiar with its face,<br /></span>
-<span class="i1">We first endure, then pity, then embrace.”<br /></span>
-</div></div>
-</div>
+    “Vice is a monster of such frightful mien
+     That, to be hated, needs but to be seen;
+     But seen too oft, familiar with its face,
+     We first endure, then pity, then embrace.”
 
-<p>It is said that those who live on the banks of Niagara neither hear its
+It is said that those who live on the banks of Niagara neither hear its
 thunder nor shudder at its overwhelming power. In any other country such
-a frightful crime as the Carrolton massacre&mdash;in any other country than
+a frightful crime as the Carrolton massacre--in any other country than
 this a scream would have gone up from all quarters of the land for the
 arrest and punishment of these cold-blooded murderers. But alas! nothing
 like this has happened here. We are used to the shedding of innocent
 blood, and the heart of this nation is torpid, if not dead, to the
 natural claims of justice and humanity where the victims are of the
 colored race. Where are the sworn ministers of the law? Where are the
-guardians of public justice?</p>
+guardians of public justice?
 
-<p>Where are the defenders of the Constitution? What hand in House or
+Where are the defenders of the Constitution? What hand in House or
 Senate; what voice in court or Cabinet is uplifted to stay this tide of
 violence, blood, and barbarism? Neither governors, presidents, nor
 statesmen have yet declared that these barbarities shall be stopped. On
@@ -2383,24 +2324,20 @@ treason flourishes over us. In view of this confessed impotency of the
 Government and this apparent insensibility of the nation to the claims
 of humanity, do you ask me why I expend my time and breath in denouncing
 these wholesale murders when there is no seeming prospect of a favorable
-re<span class="pagenum"><a name="page_60" id="page_60">{60}</a></span>sponse? I answer in turn, how can you, how can any man with a heart
+response? I answer in turn, how can you, how can any man with a heart
 in his breast do otherwise when, louder than the blood of Abel, the
-blood of his fellow-men cries from the ground?</p>
+blood of his fellow-men cries from the ground?
 
-<div class="poetry">
-<div class="poem"><div class="stanza">
-<span class="i0">“Shall tongues be mute when deeds are wrought<br /></span>
-<span class="i3">Which well might shame extremest hell?<br /></span>
-<span class="i1">Shall freeman lock the indignant thought?<br /></span>
-<span class="i3">Shall mercy’s bosom cease to swell?<br /></span>
-<span class="i1">Shall honor bleed, shall truth succumb,<br /></span>
-<span class="i1">Shall pen, and press, and soul be dumb?<br /></span>
-<span class="i1">By all around, above, below,<br /></span>
-<span class="i1">Be ours the indignant answer, No!”<br /></span>
-</div></div>
-</div>
+    “Shall tongues be mute when deeds are wrought
+       Which well might shame extremest hell?
+     Shall freeman lock the indignant thought?
+       Shall mercy’s bosom cease to swell?
+     Shall honor bleed, shall truth succumb,
+     Shall pen, and press, and soul be dumb?
+     By all around, above, below,
+     Be ours the indignant answer, No!”
 
-<p>In a former address, delivered on the occasion of this anniversary, I
+In a former address, delivered on the occasion of this anniversary, I
 was at the pains of showing that much of the crime attributed to colored
 people, and for which they were held responsible, imprisoned, and
 murdered, was, in fact, committed by white men disguised as negroes. I
@@ -2414,9 +2351,9 @@ Tenn., attempted under this disguise to commit a cunningly devised
 robbery and have his offence fixed upon a negro. All worked well till a
 bullet brought him to the ground and a little soap and water was applied
 to his face, when he was found to be no negro at all, but a very
-respectable white citizen.</p>
+respectable white citizen.
 
-<p>Dark, desperate, and forlorn as I have described the situation, the
+Dark, desperate, and forlorn as I have described the situation, the
 reality exceeds the description. In most of the Gulf States, and in some
 parts of the border States, I have sometimes thought that we should be
 about as well-situated for the purposes of justice if there were no
@@ -2427,16 +2364,16 @@ now at the mercy of midnight raiders, assassins, and murderers, and we
 should only be in the same condition if these pretended safeguards were
 abandoned. They now only mock us. Other men are presumed to be innocent
 until they are proved guilty. We are presumed to be guilty until we are
-proved to be innocent.</p>
+proved to be innocent.
 
-<p>The charge is often made that negroes are by nature the<span class="pagenum"><a name="page_61" id="page_61">{61}</a></span> criminal class
+The charge is often made that negroes are by nature the criminal class
 of America; that they furnish a larger proportion of petty thieves than
 any other class. I admit the charge, but deny that nature, race, or
 color has anything to do with the fact. Any other race with the same
 antecedents and the same condition would show a similar thieving
-propensity.</p>
+propensity.
 
-<p>The American people have this lesson to learn: That where justice is
+The American people have this lesson to learn: That where justice is
 denied, where poverty is enforced, where ignorance prevails, and where
 any one class is made to feel that society is an organized conspiracy to
 oppress, rob, and degrade them, neither persons nor property will be
@@ -2460,15 +2397,15 @@ quick circulation on one side, and tardy circulation on the other. So
 that he has grown up unequal, unsymmetrical, and is no longer a
 vertical, well-rounded man, in body or in mind. Time, education, and
 training will restore him to natural proportions, for, though bruised
-and blasted, he is yet a man.</p>
+and blasted, he is yet a man.
 
-<p>The school of the negro since leaving slavery has not been much of an
+The school of the negro since leaving slavery has not been much of an
 improvement on his former condition. Individuals of the race have here
 and there enjoyed large benefits from emancipation, and the result is
 seen in their conduct, but the mass have had their liberty coupled with
 hardships which tend strongly to keep them a dwarfed and miserable
 class. A man who labors ten hours a day with pickaxe, crowbar, and
-shovel, and has a family to support and house rent<span class="pagenum"><a name="page_62" id="page_62">{62}</a></span> to pay, and receives
+shovel, and has a family to support and house rent to pay, and receives
 for his work but a dollar a day, and what is worse still, he is deprived
 of labor a large part of his time by reason of sickness and the weather,
 in his poverty, easily falls before the temptation to steal and rob.
@@ -2479,9 +2416,9 @@ enter the kingdom of heaven. Man is so constituted that if he cannot get
 a living honestly, he will get it dishonestly. “Skin for skin,” as the
 devil said of Job. “All that a man hath will he give for his life.”
 Oppression makes even wise men mad and reckless; for illustration I pray
-look at East St. Louis.</p>
+look at East St. Louis.
 
-<p>In the Southern States to-day a landlord system is in operation which
+In the Southern States to-day a landlord system is in operation which
 keeps the negroes of that section in rags and wretchedness, almost to
 the point of starvation. As a rule, this system puts it out of the power
 of the negro to own land. There is, to be sure, no law forbidding the
@@ -2497,9 +2434,9 @@ than that which prevails at this hour at the South, and yet the colored
 people of the South are constantly reproached for their poverty. They
 are asked to make bricks without straw. Their hands are tied, and they
 are asked to work. They are forced to be poor, and laughed at for their
-destitution.</p>
+destitution.
 
-<p>I am speaking mainly to colored men to-night, but I want my words to
+I am speaking mainly to colored men to-night, but I want my words to
 find their way to the eyes, ears, heads and hearts of my white
 fellow-countrymen, hoping that some among them may be made to think,
 some hearts among them will be made to feel, and some of their number
@@ -2507,15 +2444,15 @@ will be made to act. I appeal to our white fellow-countrymen. The power
 to protect is in their hands. This is and must be practically the white
 man’s government. He has the numbers and the intelligence to control and
 direct. To him belongs the responsibility of its honor or dishonor, its
-glory or its shame, its salvation or its<span class="pagenum"><a name="page_63" id="page_63">{63}</a></span> ruin. If they can protect the
+glory or its shame, its salvation or its ruin. If they can protect the
 rights of white men they can protect the rights of black men; if they
 can defend the rights of American citizens abroad they can defend them
 at home; if they can use the army to protect the rights of Chinamen,
 they can use the army to protect the rights of colored men. The only
 trouble is the will! the will! the will! Here, as elsewhere, “Where
-there is a will there is a way.”</p>
+there is a will there is a way.”
 
-<p>I have now said not all that could be said but enough to indicate the
+I have now said not all that could be said but enough to indicate the
 relations at present existing between the white and colored people of
 this country, especially the relations subsisting between the two
 classes of the late slave-holding States. Time would fail me to trace
@@ -2523,17 +2460,17 @@ this relation in all its ramifications; but that labor is neither
 required by this audience nor by the country. The condition of the
 emancipated class is known alike to ourselves and to the Government, to
 pulpit and press, and to both of the great political parties. These have
-only to do their duty and all will be well.</p>
+only to do their duty and all will be well.
 
-<p>One use of this annual celebration is to keep the subject of our
+One use of this annual celebration is to keep the subject of our
 grievances before the people and government, and to urge both to do
 their respective parts in the happy solution of the race problem. The
 weapons of our warfare for equal rights are not carnal but simple truth,
 addressed to the hearts and sense of justice of the American people. If
 this fails we are lost. We have no armies or generals, no swords or
-cannons to enforce our claims, and do not want any.</p>
+cannons to enforce our claims, and do not want any.
 
-<p>We are often asked with an air of reproach by white men at the North:
+We are often asked with an air of reproach by white men at the North:
 “Why don’t your people fight their way to the ballot-box?” The question
 adds insult to injury. Whom are we called upon to fight? They are the
 men who held this nation, with all its tremendous resources of men and
@@ -2543,12 +2480,12 @@ armies, skilled generals of the Confederate army, and in the last resort
 we should have to meet the Federal army. Though that army cannot now be
 employed to defend the weak against the strong, means would certainly be
 found for its employment to protect the strong against the weak. In such
-a case insurrection would be madness.</p>
+a case insurrection would be madness.
 
-<p>But there is another remedy proposed. These people are advised to make
+But there is another remedy proposed. These people are advised to make
 an exodus to the Pacific slope. With the best intentions they are told
 of the fertility of the soil and salubrity of the climate. If they
-should tell the same as ex<span class="pagenum"><a name="page_64" id="page_64">{64}</a></span>isting in the moon, the simple question, How
+should tell the same as existing in the moon, the simple question, How
 shall they get there? would knock the life out of it at once. Without
 money, without friends, without knowledge, and only gaining enough by
 daily toil to keep them above the starvation point, where they are, how
@@ -2559,21 +2496,21 @@ every cross-road. Who does not know that the white landholders of the
 South would never consent to let that labor which alone gives value to
 their land march off without opposition? Who does not know that if the
 Federal Government is powerless to protect these people in staying that
-it would be equally powerless to protect them in going <i>en masse</i>? For
+it would be equally powerless to protect them in going _en masse_? For
 one, I say away with such contrivances, such lame and impotent
 substitutes for the justice and protection due us. The first duty that
-the National Government owes to its citizens is protection.</p>
+the National Government owes to its citizens is protection.
 
-<p>While, however, I hold now, as I held years ago, that the South is the
+While, however, I hold now, as I held years ago, that the South is the
 natural home of the colored race, and that there must the destiny of
 that race be mainly worked out, I still believe that means can be and
 ought to be adopted to assist in the emigration of such of their number
 as may wish to change their residence to parts of the country where
 their civil and political rights are better protected than at present
-they can be at the South.</p>
+they can be at the South.
 
-<p>I adopt the suggestion of the <i>National Republican</i>, of this city, that
-<i>diffusion</i> is the true policy for the colored people of the South. All,
+I adopt the suggestion of the _National Republican_, of this city, that
+_diffusion_ is the true policy for the colored people of the South. All,
 of course, cannot leave that section, and ought not; but some can, and
 the condition of those who must remain will be better because of those
 who go. Men, like trees, may be too thickly planted to thrive. If the
@@ -2586,11 +2523,11 @@ purpose would do more for the colored people of the South than the same
 amount expended in any other way. There is no degradation, no loss of
 self-respect, in asking this aid, considering the circumstances of these
 people. The white people of this nation owe them this help and a great
-deal more. The<span class="pagenum"><a name="page_65" id="page_65">{65}</a></span> keynote of the future should not be concentration, but
-diffusion&mdash;distribution. This may not be a remedy for all evils now
-uncured, but it certainly will be a help in the right direction.</p>
+deal more. The keynote of the future should not be concentration, but
+diffusion--distribution. This may not be a remedy for all evils now
+uncured, but it certainly will be a help in the right direction.
 
-<p>A word now in respect of another remedy for the black man’s ills. It
+A word now in respect of another remedy for the black man’s ills. It
 calls itself independent political action. This has, during the past few
 years, been advocated with much zeal and spirit by several of our
 leading colored men, and also with much ability, though I am happy to
@@ -2603,17 +2540,17 @@ who adhere to the Republican party are vilified as slaves,
 office-seekers, serviles, “knuckle-close” Republicans, as tools of white
 men, traitors to their race, and much more of the same sort. Perhaps no
 one has been a more prominent target for such denunciation than your
-humble speaker.</p>
+humble speaker.
 
-<p>Now, the position to which these gentlemen invite us is one of
+Now, the position to which these gentlemen invite us is one of
 neutrality between the two great political parties, and to vote with
 either, or against either, according to the prevailing motive when the
 time for action shall arrive. In the interval we are to have no standing
 with either party, and have no active influence in shaping the policy of
 either, but we are to stand alone, and hold ourselves ready to serve one
-or to serve the other, or both, as we may incline at the moment.</p>
+or to serve the other, or both, as we may incline at the moment.
 
-<p>With all respect to these political doctors, I must say that their
+With all respect to these political doctors, I must say that their
 remedy is no remedy at all. No man can serve two masters in politics any
 more than in religion. If there is one position in life more despicable
 in the eyes of man, and more condemned by nature than another, it is
@@ -2624,7 +2561,7 @@ reached this perfection, but they are utterly mistaken. No man can read
 their utterances without seeing their animus of hate to the Republican
 party, and their preference for the Democratic party. The fault is not
 so much in their intention, as in their position. They can neither act
-with nor against the two parties impartially. They are<span class="pagenum"><a name="page_66" id="page_66">{66}</a></span> compelled by
+with nor against the two parties impartially. They are compelled by
 their position to either serve the one and oppose the other, and they
 cannot serve or oppose both alike. Independence, like neutrality, is
 also impossible. If the colored man does not depend upon the Republican
@@ -2633,25 +2570,25 @@ he becomes a nonentity in American politics. But these gentlemen do, in
 effect, ask us to break down the power of the Republican party, when to
 do it is to put the Government in the hands of the Democratic party.
 Colored men are already in the Republican party, and to come out of it
-is to defeat it.</p>
+is to defeat it.
 
-<p>For one, I must say that the Democratic party has as yet given me no
+For one, I must say that the Democratic party has as yet given me no
 sufficient reasons for doing it any such service, nor has the Republican
 party sunk so low that I must abandon it for its great rival. With all
 its faults it is the best party now in existence. In it are the best
 elements of the American people, and if any good is to come to us
-politically it will be through that party.</p>
+politically it will be through that party.
 
-<p>I must cease to remember a great many things and must forget a great
+I must cease to remember a great many things and must forget a great
 many things before I can counsel any man, colored or white, to join the
 Democratic party, or to occupy a position of neutrality between that
 party and the Republican party. Such a position of the colored people of
 this country will prove about as comfortable as between the upper and
 nether millstone. Those of our number now posing as Independents are
 doing better service to the Democratic party under the Independent mask
-than they could do if they came out honestly for the Democratic party.</p>
+than they could do if they came out honestly for the Democratic party.
 
-<p>I am charged with commending the inaugural address of President
+I am charged with commending the inaugural address of President
 Cleveland. I am not ashamed of that charge. I said at the time that no
 better words for the colored citizen had dropped from the east portico
 of the Capitol since the days of Lincoln and Grant, and I say so still.
@@ -2663,7 +2600,7 @@ accuser seeks to make the impression that those who thought and spoke
 well of the inaugural address did so from selfish motives, and from a
 desire to get or retain office. “Out of the abundance of the heart the
 mouth speaketh.” “With what judgment ye judge, ye shall be judged, and
-with what measure ye mete, the same shall be<span class="pagenum"><a name="page_67" id="page_67">{67}</a></span> measured to you again.” He
+with what measure ye mete, the same shall be measured to you again.” He
 ought to remember, however, that a serpent without a fang, a scorpion
 without a sting, has no more ability to poison than a lie which has lost
 its ability to deceive has to injure. It so happens that we had two
@@ -2698,9 +2635,9 @@ these things to the American people for nearly fifty years. In the order
 of nature I cannot say them much longer; but, as was said by another,
 “though time himself should confront me, and shake his hoary locks at my
 persistence, I shall not cease while life is left me, and our wrongs are
-unredressed, to thus cry aloud and spare not.”</p>
+unredressed, to thus cry aloud and spare not.”
 
-<p>Fellow-citizens, I am disappointed. The accession of the<span class="pagenum"><a name="page_68" id="page_68">{68}</a></span> Democratic
+Fellow-citizens, I am disappointed. The accession of the Democratic
 party to power has not been followed by the results I expected. When the
 tiger has quenched his thirst in blood, and when the anaconda has
 swallowed his prey, they cease to pursue their trembling game and sink
@@ -2710,9 +2647,9 @@ pretence for the fear of negro ascendency in the councils of the nation,
 persecution, violence, and murder would cease, and the negro would be
 left in peace; but the bloody scenes at Carrollton, and the daily
 reports of lynch law in the South, have destroyed this cherished hope
-and told me that the end of our sufferings is not yet.</p>
+and told me that the end of our sufferings is not yet.
 
-<p>But, fellow-citizens, I do not despair, and no power that I know of can
+But, fellow-citizens, I do not despair, and no power that I know of can
 make me despair of the ultimate triumph of justice and liberty in this
 country. I have seen too many abuses outgrown, too many evils removed,
 too many moral and physical improvements made, to doubt that the wheels
@@ -2724,9 +2661,9 @@ establish a character for sobriety, punctuality, and general
 uprightness, and we shall raise up powerful friends who shall stand by
 us in our struggle for an equal chance in the race of life. The white
 people of this country are asleep, but not dead. In other days we had a
-potent voice in the Senate which awoke the nation.</p>
+potent voice in the Senate which awoke the nation.
 
-<p>Ireland now has an advocate in the British Senate who has arrested the
+Ireland now has an advocate in the British Senate who has arrested the
 eye and ear of the civilized world in championing the cause of Ireland.
 There is to-day in the American Senate an opportunity for an American
 Gladstone; one whose voice shall have power to awake this nation to the
@@ -2738,9 +2675,353 @@ American statesmanship. There is heart and eloquence still left in the
 councils of the nation, and these will, I trust, yet make themselves
 potent in having both the Constitution of 1789 and the Constitution with
 the fourteenth and fifteenth amendments made practically the law of the
-land for all the people thereof.</p>
+land for all the people thereof.
 
-<hr class="full" />
-<div>*** END OF THE PROJECT GUTENBERG EBOOK 67919 ***</div>
-</body>
-</html>
+*** END OF THE PROJECT GUTENBERG EBOOK THREE ADDRESSES ON THE
+RELATIONS SUBSISTING BETWEEN THE WHITE AND COLORED PEOPLE OF THE UNITED
+STATES ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
